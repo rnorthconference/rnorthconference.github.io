@@ -5,6 +5,7 @@ tags = ["conference", "R", "programming"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "../rnorthconference.github.io"
 canonifyURLS = true
 googleAnalytics = ""

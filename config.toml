@@ -1,12 +1,12 @@
 title = "Osprey Example Site"
-baseURL = "https://rnorthconference.github.io"
-relativeURLs= true
+baseURL = "https://rnorthconference.github.io/"
+relativeURL= true
 tags = ["conference", "R", "programming"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 publishDir = "../rnorthconference.github.io"
-canonifyURLS = false
+canonifyURLS = true
 googleAnalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies

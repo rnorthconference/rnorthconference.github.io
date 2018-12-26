@@ -1,4 +1,4 @@
-title = "Osprey Example Site"
+title = "noRth 2019 Conference"
 baseURL = "https://rnorthconference.github.io/"
 relativeURL= true
 tags = ["conference", "R", "programming"]
@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 [Params]
   tagline = "A conference for R users in the Twin Cities and greater north region."
   author = "Lindsey Dietz"
-  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+  description = ""
   logoBig = "/images/noRth2019.png" 
   logoSmall = "/images/north.jpg"
   favicon = "favicon.ico"
@@ -30,7 +30,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   facebook = ""
 
   # Copyright and theme author credit in footer
-  copyright = true
+  copyright = false
   credit = true
 
   # Cache busting of static resources (additional set up required)

@@ -1,18 +1,19 @@
 title = "Osprey Example Site"
 baseURL = "https://rnorthconference.github.io"
-tags = ["portfolio", "web design", "blog"]
+relativeURLs= true
+tags = ["conference", "R", "programming"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 publishDir = "../rnorthconference.github.io"
-canonifyURLS = true
+canonifyURLS = false
 googleAnalytics = ""
-disqusShortname = "tomanistor"
+disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
   tagline = "Osprey Example Site"
-  author = "Toma Nistor"
+  author = "Lindsey Dietz"
   description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
   logoBig = "/images/osprey-logo.png"
   logoSmall = "/images/osprey-logo.png"
@@ -23,9 +24,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   customCSS = false
 
   # Social media links in footer
-  twitter = "TomaNistor"
-  linkedin = "tomanistor"
-  github = "tomanistor"
+  twitter = ""
+  linkedin = ""
+  github = "rnorthconference"
   facebook = ""
 
   # Copyright and theme author credit in footer

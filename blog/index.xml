@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on noRth 2019 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>/blog/code-of-conduct/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/code-of-conduct/</guid>
+      <description>Code of Conduct noRth is dedicated to providing a harassment-free experience for participants at our event(s). noRth is a conference intended for professional networking and collaboration in the R community. We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group.
+A Code of Conduct is useful to define accepted and acceptable behaviors and to promote high standards of professional practice.</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>

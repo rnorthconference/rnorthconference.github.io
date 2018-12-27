@@ -4,7 +4,7 @@ date = "2018-12-27T17:39:21-07:00"
 draft = false
 +++
 
-noRth is a collaboration between the following groups: R-Ladies Twin Cities, the Twin Cities R User Group, and the Institute for Research and Statistical Applications at the University of Minnesota - Twin Cities. 
+noRth is a collaboration between the following groups: <a href="https://www.meetup.com/RLadiesTC/" target="_blank"> R-Ladies Twin Cities</a>, the <a href="https://www.meetup.com/twincitiesrug/" target="_blank"> Twin Cities R User Group</a>, and the <a href="http://irsa.stat.umn.edu/" target="_blank"> Institute for Research and Statistical Applications</a> at the University of Minnesota - Twin Cities. 
 
 The tentative schedule is below (i.e. subject to changes).
 

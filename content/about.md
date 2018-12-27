@@ -1,8 +1,11 @@
 +++
-title = "Agenda"
-date = "2017-06-27T17:39:21-07:00"
+title = "About"
+date = "2018-12-27T17:39:21-07:00"
 draft = false
 +++
+noRth is a collaboration between the following groups: R-Ladies Twin Cities, the Twin Cities R User Group, and the Institute for Research and Statistical Applications at the University of Minnesota - Twin Cities. 
+
+The tentative schedule is below (i.e. subject to changes).
 
 ## Thursday, August 15, 2019
 |    |            |   |
@@ -28,6 +31,3 @@ draft = false
 | `04:10 - 04:40 pm` \| `Breakout 5a` \| `Breakout 5b` |
 | `04:10 - 04:40 pm` \| `Breakout 6a` \| `Breakout 6b` |
 | `04:45 - 05:00 pm` \| `Closing` | |
-
-
-Then add your own content to the markdown file. Everything in the file will be generated to show here on the home page.

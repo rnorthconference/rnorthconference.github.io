@@ -1,15 +1,33 @@
 +++
-title = "About"
+title = "Agenda"
 date = "2017-06-27T17:39:21-07:00"
 draft = false
 +++
 
-## Welcome to the Osprey Theme
+## Thursday, August 15, 2019
+|    |            |   |
+|---	|---:	|---	|
+| `01:30 - 4:30 pm` \| `Shiny Workshop`  | |
+| `04:30 - 5:30 pm` \| `Poster Session` | |
 
-To create an about section, generate an about.md file in your content folder by doing:
+## Friday, August 16, 2019
 
-```console
-$ hugo new about.md
-```
+|    |            |   |
+|:----------|:-------------|------:|
+| `08:00 - 08:45 am` \| `Registration` | |
+| `08:55 - 09:05 am` \| `Welcome` | |
+| `09:05 - 10:05 am` \| `Plenary 1` | |
+| `10:15 - 10:45 am` \| `Breakout 1a` \| `Breakout 1b` |
+| `10:45 - 11:05 am` \| `Coffee Break` | |
+| `11:05 - 11:35 am` \| `Breakout 2a` \| `Breakout 2b` |
+| `11:45 - 12:15 pm` \| `Breakout 3a` \| `Breakout 3b` |
+| `12:15 - 01:30 pm` \| `Lunch Break` | |
+| `01:30 - 02:30 pm` \| `Plenary 2` | |
+| `02:40 - 03:10 pm` \| `Breakout 4a` \| `Breakout 4b` |
+| `03:10 - 03:30 pm` \| `Coffee Break`||
+| `04:10 - 04:40 pm` \| `Breakout 5a` \| `Breakout 5b` |
+| `04:10 - 04:40 pm` \| `Breakout 6a` \| `Breakout 6b` |
+| `04:45 - 05:00 pm` \| `Closing` | |
+
 
 Then add your own content to the markdown file. Everything in the file will be generated to show here on the home page.

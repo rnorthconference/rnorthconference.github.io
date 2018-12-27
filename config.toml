@@ -31,7 +31,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   facebook = ""
 
   # Copyright and theme author credit in footer
-  copyright = false
+  copyright = true
   credit = false
 
   # Cache busting of static resources (additional set up required)

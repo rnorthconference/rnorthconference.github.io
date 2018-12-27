@@ -2,67 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>noRth 2019 Conference</title>
-    <link>https://rnorthconference.github.io/</link>
+    <link>/</link>
     <description>Recent content on noRth 2019 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rnorthconference.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://rnorthconference.github.io/blog/creating-a-new-theme/</link>
+      <link>/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/blog/creating-a-new-theme/</guid>
+      <guid>/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 27 Dec 2018 17:39:21 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description> noRth is a collaboration between the following groups: R-Ladies Twin Cities, the Twin Cities R User Group, and the Institute for Research and Statistical Applications at the University of Minnesota - Twin Cities.
+The tentative schedule is below (i.e. subject to changes).
+Thursday, August 15, 2019           01:30 - 4:30 pm | Shiny Workshop     04:30 - 5:30 pm | Poster Session      Friday, August 16, 2019           08:00 - 08:45 am | Registration     08:55 - 09:05 am | Welcome     09:05 - 10:05 am | Plenary 1     10:15 - 10:45 am | Breakout 1a | Breakout 1b     10:45 - 11:05 am | Coffee Break     11:05 - 11:35 am | Breakout 2a | Breakout 2b     11:45 - 12:15 pm | Breakout 3a | Breakout 3b     12:15 - 01:30 pm | Lunch Break     01:30 - 02:30 pm | Plenary 2     02:40 - 03:10 pm | Breakout 4a | Breakout 4b     03:10 - 03:30 pm | Coffee Break     04:10 - 04:40 pm | Breakout 5a | Breakout 5b     04:10 - 04:40 pm | Breakout 6a | Breakout 6b     04:45 - 05:00 pm | Closing      </description>
+    </item>
+    
+    <item>
       <title>Toma Nistor</title>
-      <link>https://rnorthconference.github.io/gallery/toma-nistor/</link>
+      <link>/gallery/toma-nistor/</link>
       <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/toma-nistor/</guid>
+      <guid>/gallery/toma-nistor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://rnorthconference.github.io/gallery/hugo/</link>
+      <link>/gallery/hugo/</link>
       <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/hugo/</guid>
+      <guid>/gallery/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Osprey</title>
-      <link>https://rnorthconference.github.io/gallery/osprey/</link>
+      <link>/gallery/osprey/</link>
       <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/osprey/</guid>
+      <guid>/gallery/osprey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rugged Fellows Guide</title>
-      <link>https://rnorthconference.github.io/gallery/rugged-fellows-guide/</link>
+      <link>/gallery/rugged-fellows-guide/</link>
       <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/rugged-fellows-guide/</guid>
+      <guid>/gallery/rugged-fellows-guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://rnorthconference.github.io/blog/2015-07-23-r-rmarkdown/</link>
+      <link>/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://rnorthconference.github.io/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -70,20 +81,20 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://rnorthconference.github.io/blog/goisforlovers/</link>
+      <link>/blog/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/blog/goisforlovers/</guid>
+      <guid>/blog/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://rnorthconference.github.io/blog/hugoisforlovers/</link>
+      <link>/blog/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/blog/hugoisforlovers/</guid>
+      <guid>/blog/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo

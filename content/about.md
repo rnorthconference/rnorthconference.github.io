@@ -3,15 +3,16 @@ title = "About"
 date = "2018-12-27T17:39:21-07:00"
 draft = false
 +++
+
 noRth is a collaboration between the following groups: R-Ladies Twin Cities, the Twin Cities R User Group, and the Institute for Research and Statistical Applications at the University of Minnesota - Twin Cities. 
 
 The tentative schedule is below (i.e. subject to changes).
 
 ## Thursday, August 15, 2019
 |    |            |   |
-|---	|---:	|---	|
-| `01:30 - 4:30 pm` \| `Shiny Workshop`  | |
-| `04:30 - 5:30 pm` \| `Poster Session` | |
+|:----------|:-------------|------:|
+| `01:30 - 4:30 pm` \| `Shiny Workshop`  | 
+| `04:30 - 5:30 pm` \| `Poster Session` | 
 
 ## Friday, August 16, 2019
 

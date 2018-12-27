@@ -1,11 +1,11 @@
 <section class="blog" id="blog">
   <div class="container">
     <div class="row center-xs">
-      <div class="col-xs-12"><h1>Latest Posts</h1></div>
+      <div class="col-xs-12"><h1>noRth Code of Conduct</h1></div>
     </div>
     <div class="row">
       <div class="col-xs-12 posts-list">
-        {{ range first 5 (where .Data.Pages "Section" "blog") }}
+        {{ range first 1 (where .Data.Pages "Section" "blog") }}
           <article>
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <div class=sub-header>
@@ -14,9 +14,6 @@
           </article>
         {{ end }}
       </div>
-    </div>
-    <div class="row center-xs">
-      <div class="col-xs-12"><h3><a href="{{ "/blog/" | relURL }}">View All</a></h3></div>
-    </div>
+     </div>
   </div>
 </section>

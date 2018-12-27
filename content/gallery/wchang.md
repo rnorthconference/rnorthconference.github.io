@@ -1,7 +1,8 @@
 +++
 date = "2018-12-27"
 title = "Winston Chang"
-company = "Software Developer, RStudio"
+position = "Software Developer"
+company = "RStudio"
 image = "wchang.jpeg"
 alt = "Winston Chang"
 color = "#212121"

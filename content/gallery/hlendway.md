@@ -1,7 +1,8 @@
 +++
 date = "2018-12-27"
 title = "Heather Lendway"
-company = "Data Scientist, 3M"
+position = "Data Scientist"
+company = "3M"
 image = "hlendway.jpeg"
 alt = "Heather Lendway"
 color = "#212121"

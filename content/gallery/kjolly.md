@@ -1,7 +1,8 @@
 +++
 date = "2018-12-27"
 title = "Katie Jolly"
-company = "Student, Macalester"
+position = "Student"
+company =  "Macalester"
 image = "kjolly.jpeg"
 alt = "Katie Jolly"
 color = "#212121"

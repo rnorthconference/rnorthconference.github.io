@@ -1,7 +1,8 @@
 +++
 date = "2018-12-27"
 title = "Carson Sievert"
-company = "Data Scientist, 3M"
+position = "Freelance Data Scientist"
+company = "Sievert Consulting"
 image = "csievert.jpeg"
 alt = "Carson Sievert"
 color = "#212121"

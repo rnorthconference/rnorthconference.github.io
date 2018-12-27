@@ -1,7 +1,8 @@
 +++
 date = "2018-12-27"
 title = "An-Ting Jhuang"
-company = "Data Scientist, SavvySherpa"
+position = "Data Scientist"
+company = "SavvySherpa"
 image = "ajhuang.jpeg"
 alt = "An-Ting Jhuang"
 color = "#212121"

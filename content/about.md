@@ -4,7 +4,7 @@ date = "2018-12-27T17:39:21-07:00"
 draft = false
 +++
 
-noRth is aimed at intermediate R users and consists of a half-day (optional) short course and a day of interactive talks. The conference will be held in <a href="https://goo.gl/maps/iTcZAfEzxmp target="_blank"> Bruininks Hall</a> on the campus of the University of Minnesota. The tentative schedule is below (i.e. subject to changes).
+noRth is aimed at intermediate R users and consists of a half-day (optional) short course and a day of interactive talks. The conference will be held on August 15-16, 2019 in <a href="https://goo.gl/maps/iTcZAfEzxmp target="_blank"> Bruininks Hall</a> on the campus of the University of Minnesota. The tentative schedule is below (i.e. subject to changes).
 
 ### Thursday, August 15, 2019
 |    |            |   |

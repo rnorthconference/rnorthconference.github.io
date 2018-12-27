@@ -54,11 +54,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   weight = 1
 [[menu.main]]
   name = "Speakers"
-  url  = "/#work"
+  url  = "/#speakers"
   weight = 2
 [[menu.main]]
   name = "Code of Conduct"
-  url  = "/#blog"
+  url  = "/#coc"
   weight = 3
 [[menu.main]]
   name = "Contact"

@@ -46,7 +46,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   # Choose either Formspree contact form or Basin contact form
   ajaxFormspree = true
   ajaxFormspreeGold = false
-  ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
+  ajaxBasin = ""
 
 [[menu.main]]
   name = "About"

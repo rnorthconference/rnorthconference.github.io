@@ -4,17 +4,15 @@ date = "2018-12-27T17:39:21-07:00"
 draft = false
 +++
 
-noRth is a collaboration between the following groups: <a href="https://www.meetup.com/RLadiesTC/" target="_blank"> R-Ladies Twin Cities</a>, the <a href="https://www.meetup.com/twincitiesrug/" target="_blank"> Twin Cities R User Group</a>, and the <a href="http://irsa.stat.umn.edu/" target="_blank"> Institute for Research and Statistical Applications</a> at the University of Minnesota - Twin Cities. 
+noRth is aimed at intermediate R users and consists of a half-day (optional) short course and a day of interactive talks. The conference will be held in <a href="https://goo.gl/maps/iTcZAfEzxmp target="_blank"> Bruininks Hall</a> on the campus of the University of Minnesota. The tentative schedule is below (i.e. subject to changes).
 
-The tentative schedule is below (i.e. subject to changes).
-
-## Thursday, August 15, 2019
+### Thursday, August 15, 2019
 |    |            |   |
 |:----------|:-------------|------:|
 | `01:30 - 4:30 pm` \| `Shiny Workshop`  | 
 | `04:30 - 5:30 pm` \| `Poster Session` | 
 
-## Friday, August 16, 2019
+### Friday, August 16, 2019
 
 |    |            |   |
 |:----------|:-------------|------:|
@@ -32,3 +30,5 @@ The tentative schedule is below (i.e. subject to changes).
 | `04:10 - 04:40 pm` \| `Breakout 5a` \| `Breakout 5b` |
 | `04:10 - 04:40 pm` \| `Breakout 6a` \| `Breakout 6b` |
 | `04:45 - 05:00 pm` \| `Closing` | |
+
+noRth is a collaboration between the following groups: <a href="https://www.meetup.com/RLadiesTC/" target="_blank"> R-Ladies Twin Cities</a>, the <a href="https://www.meetup.com/twincitiesrug/" target="_blank"> Twin Cities R User Group</a>, and the <a href="http://irsa.stat.umn.edu/" target="_blank"> Institute for Research and Statistical Applications</a> at the University of Minnesota - Twin Cities. 

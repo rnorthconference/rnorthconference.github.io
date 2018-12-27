@@ -12,8 +12,6 @@ categories = [
 ]
 +++
 
-## Code of Conduct
-
 noRth is dedicated to providing a harassment-free experience for participants at our event(s). noRth is a conference intended for professional networking and collaboration in the R community. We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group. 
 
 A **Code of Conduct** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identity of the community and organization. If you have general questions about codes of conduct, a good place to start is this [code of conduct FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq#cocfaq).
@@ -57,16 +55,9 @@ noRth prioritizes marginalized people's safety over privileged people's comfort.
 * Communicating in a 'tone' you don't find congenial.
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
-### Harassment in online channels
-
-Participants at noRth may also participate in online chats, discussion forums, and mailing lists (including platforms such as Slack and Twitter). Please use these guidelines where engaging with particpants:
-
-* Avoid using overtly sexual or offensive usernames or profile photos which might detract from a friendly, safe and welcoming environment for all.
-* Do not publish text/screenshots of anything shared in a private communication channels without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of noRth Slack.
-
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of event staff immediately. Event staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You can contact the `<RESPONSE TEAM>` at rnorthconf@gmail.com.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of event staff immediately. Event staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You can contact us at <a href='mailto:rnorthconf@gmail.com'> rnorthconf@gmail.com</a>.
 
 While this code of conduct applies to spaces associated with noRth, if you are being harassed by a guest/participant of/at noRth outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by noRth participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The noRth organizing committee reserves the right to exclude people from noRth based on their past behavior, including behavior outside noRth spaces and behavior towards people who are not part of noRth.
 
@@ -87,6 +78,6 @@ If a participant engages in behavior in violation of the CoC, the conference org
 
 ## Pre-Event Concerns
 
-If you are planning to attend an upcoming event, and have concerns regarding another individual who may be present, please contact `<RESPONSE TEAM>` at rnorthconf@gmail.com. Precautions will be taken to ensure a victim's comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events, and providing onsite contact cell phone numbers for immediate contact.  In extreme cases, we may take action to prevent the harasser from attending the conference.
+If you are planning to attend noRth, and have concerns regarding another individual who may be present, please contact us as soon as possible at <a href='mailto:rnorthconf@gmail.com'> rnorthconf@gmail.com</a>. Precautions will be taken to ensure a victim's comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events, and providing onsite contact cell phone numbers for immediate contact.  In extreme cases, we may take action to prevent the harasser from attending the conference.
 
-This policy is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
+This policy is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) and is adapted from the [R Consortium Code of Conduct](https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md).

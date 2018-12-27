@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   logoSmall = "/images/north.jpg"
   favicon = "favicon.ico"
   opengraphImage = "/images/noRth2019.png"
-  email = ""
+  email = "rnorthconf@gmail.com"
   googleTagManger = ""
   customCSS = false
 
@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 
   # Copyright and theme author credit in footer
   copyright = false
-  credit = true
+  credit = false
 
   # Cache busting of static resources (additional set up required)
   cacheBustCSS = false
@@ -44,7 +44,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
 
   # Choose either Formspree contact form or Basin contact form
-  ajaxFormspree = false
+  ajaxFormspree = true
   ajaxFormspreeGold = false
   ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
 
@@ -54,11 +54,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   weight = 1
 [[menu.main]]
   name = "Speakers"
-  url  = "/#speakers"
+  url  = "/#work"
   weight = 2
 [[menu.main]]
   name = "Code of Conduct"
-  url  = "/#coc"
+  url  = "/#blog"
   weight = 3
 [[menu.main]]
   name = "Contact"

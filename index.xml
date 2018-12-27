@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>noRth 2019 Conference</title>
-    <link>https://rnorthconference.github.io/</link>
+    <link>/</link>
     <description>Recent content on noRth 2019 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rnorthconference.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://rnorthconference.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>noRth is aimed at intermediate R users and consists of a half-day (optional) short course and a day of interactive talks. The conference will be held on August 15-16, 2019 in Bruininks Hall on the campus of the University of Minnesota. The tentative schedule is below (i.e. subject to changes).
-Thursday, August 15, 2019           01:30 - 4:30 pm | Shiny Workshop     04:30 - 5:30 pm | Poster Session      Friday, August 16, 2019           08:00 - 08:45 am | Registration     08:55 - 09:05 am | Welcome     09:05 - 10:05 am | Plenary 1     10:15 - 10:45 am | Breakout 1a | Breakout 1b     10:45 - 11:05 am | Coffee Break     11:05 - 11:35 am | Breakout 2a | Breakout 2b     11:45 - 12:15 pm | Breakout 3a | Breakout 3b     12:15 - 01:30 pm | Lunch Break     01:30 - 02:30 pm | Plenary 2     02:40 - 03:10 pm | Breakout 4a | Breakout 4b     03:10 - 03:30 pm | Coffee Break     04:10 - 04:40 pm | Breakout 5a | Breakout 5b     04:10 - 04:40 pm | Breakout 6a | Breakout 6b     04:45 - 05:00 pm | Closing      noRth is a collaboration between the following groups: R-Ladies Twin Cities, the Twin Cities R User Group, and the Institute for Research and Statistical Applications at the University of Minnesota - Twin Cities.</description>
+Thursday, August 15, 2019  01:00 - 01:25 pm Workshop Registration   01:30 - 04:30 pm Shiny Workshop   04:30 - 05:30 pm Poster Session    Friday, August 16, 2019           08:00 - 08:45 am  noRth Registration   08:55 - 09:05 am  Welcome   09:05 - 10:05 am  Plenary 1   10:15 - 10:45 am  Breakout Sessions (1a, 1b)   10:45 - 11:05 am  Coffee Break   11:05 - 11:35 am  Breakout Sessions (2a, 2b)   11:45 - 12:15 pm  Breakout Sessions (3a, 3b)   12:15 - 01:30 pm  Lunch Break   01:30 - 02:30 pm  Plenary 2   02:40 - 03:10 pm  Breakout Sessions (4a, 4b)   03:10 - 03:30 pm  Coffee Break   03:30 - 04:10 pm  Breakout Sessions (5a, 5b)   04:10 - 04:40 pm  Breakout Sessions (6a, 6b)   04:45 - 05:00 pm  Closing    noRth is a collaboration between the following groups:</description>
     </item>
     
     <item>
       <title>An-Ting Jhuang</title>
-      <link>https://rnorthconference.github.io/gallery/ajhuang/</link>
+      <link>/gallery/ajhuang/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/ajhuang/</guid>
+      <guid>/gallery/ajhuang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carson Sievert</title>
-      <link>https://rnorthconference.github.io/gallery/csievert/</link>
+      <link>/gallery/csievert/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/csievert/</guid>
+      <guid>/gallery/csievert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://rnorthconference.github.io/blog/code-of-conduct/</link>
+      <link>/blog/code-of-conduct/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/blog/code-of-conduct/</guid>
+      <guid>/blog/code-of-conduct/</guid>
       <description>noRth is dedicated to providing a harassment-free experience for participants at our event(s). noRth is a conference intended for professional networking and collaboration in the R community. We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group.
 A Code of Conduct is useful to define accepted and acceptable behaviors and to promote high standards of professional practice.</description>
     </item>
     
     <item>
       <title>Heather Lendway</title>
-      <link>https://rnorthconference.github.io/gallery/hlendway/</link>
+      <link>/gallery/hlendway/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/hlendway/</guid>
+      <guid>/gallery/hlendway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Katie Jolly</title>
-      <link>https://rnorthconference.github.io/gallery/kjolly/</link>
+      <link>/gallery/kjolly/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/kjolly/</guid>
+      <guid>/gallery/kjolly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kim Eng Ky</title>
-      <link>https://rnorthconference.github.io/gallery/kky/</link>
+      <link>/gallery/kky/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/kky/</guid>
+      <guid>/gallery/kky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soumya Kalra</title>
-      <link>https://rnorthconference.github.io/gallery/skalra/</link>
+      <link>/gallery/skalra/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/skalra/</guid>
+      <guid>/gallery/skalra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Winston Chang</title>
-      <link>https://rnorthconference.github.io/gallery/wchang/</link>
+      <link>/gallery/wchang/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/wchang/</guid>
+      <guid>/gallery/wchang/</guid>
       <description></description>
     </item>
     

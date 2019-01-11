@@ -1,8 +1,8 @@
 +++
 date = "2018-12-27"
 title = "Soumya Kalra"
-position = "Quantitative Analyst"
-company = "Federal Reserve Bank of NY"
+position = "Co-organizer"
+company = "R-Ladies New York"
 image = "skalra.jpeg"
 alt = "Soumya Kalra"
 color = "#212121"

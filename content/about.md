@@ -18,8 +18,8 @@ noRth is aimed at intermediate R users and consists of a half-day (optional) sho
     <td>Shiny Workshop</td> 
   </tr>
     <tr>
-    <td>04:30 - 05:30 pm</td>
-    <td>Poster Session</td> 
+    <td>04:30 - ?</td>
+    <td>Happy Hour at TBD</td> 
   </tr>
   </table>
 </div>

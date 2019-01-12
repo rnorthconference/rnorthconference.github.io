@@ -1,5 +1,5 @@
 +++
-date = "2018-12-27"
+date = "2019-01-12"
 title = "Soumya Kalra"
 position = "Co-organizer"
 company = "R-Ladies New York"

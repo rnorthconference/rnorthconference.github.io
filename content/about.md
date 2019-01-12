@@ -7,8 +7,7 @@ draft = false
 noRth is aimed at intermediate R users and consists of a half-day (optional) short course and a day of interactive talks. The conference will be held on August 15-16, 2019 in <a href="https://goo.gl/maps/iTcZAfEzxmp target="_blank"> Bruininks Hall</a> on the campus of the University of Minnesota. The tentative schedule is below (i.e. subject to changes).
 
 ### Thursday, August 15, 2019
-<div class="table-responsive">
-  <table class="table-bordered">
+<table class="table">
   <tr>
     <td>01:00 - 01:25 pm</td>
     <td>Shiny Workshop Registration</td> 
@@ -20,27 +19,72 @@ noRth is aimed at intermediate R users and consists of a half-day (optional) sho
     <tr>
     <td>04:30 - ?</td>
     <td>Happy Hour at TBD</td> 
-  </tr>
-  </table>
-</div>
+  </tr>  
+</table>
 
 ### Friday, August 16, 2019
 
-|    |            |   |
-|:----------|:-------------|:------|
-| 08:00 - 08:45 am | | noRth Registration/Coffee/Light Breakfast |
-| 08:50 - 09:05 am | | Welcome | 
-| 09:05 - 10:05 am | | Plenary 1 |
-| 10:05 - 10:30 am | |Coffee Break/Networking | 
-| 10:35 - 11:10 am | |Breakout Sessions (1a, 1b) | 
-| 11:20 - 11:55 pm | |Breakout Sessions (2a, 2b) | 
-| 12:00 - 01:20 pm | |Lunch Break | 
-| 01:30 - 02:30 pm | |Plenary 2 | 
-| 02:30 - 02:55 pm | |Coffee Break|
-| 03:00 - 03:35 pm | |Breakout Sessions (3a, 3b) | 
-| 03:45 - 04:20 pm | |Breakout Sessions (4a, 4b) | 
-| 04:30 - 04:40 pm | |Closing | 
-| 04:40 - ? | |Happy Hour at TBD | 
+<table class="table">
+  <tr>
+    <th>8:00 - 8:45 am </th>
+    <th>noRth Registration/Coffee/Light Breakfast </th>
+  </tr>
+  <tr>
+    <th>8:50 - 9:05 am </th>
+    <th> Welcome </th>
+  </tr>
+    <tr>
+    <th>9:05 - 10:05 am </th>
+    <th> Plenary 1 </th>
+  </tr>
+  <tr>
+    <th>10:05 - 10:30 am </th>
+    <th> Coffee Break/Networking </th>
+  </tr>
+  <tr>
+    <th>10:35 - 11:10 am </th>
+    <th> Breakout Session 1a </th>
+    <th> Breakout Session 1b </th>
+  </tr>
+  <tr>
+    <th>11:20 - 11:55 am </th>
+    <th> Breakout Session 2a </th>
+    <th> Breakout Session 2b </th>
+  </tr>
+    <tr>
+    <th>12:00 - 1:20 pm </th>
+    <th> Lunch Break </th>
+  </tr>
+    </tr>
+    <tr>
+    <th>1:30 - 2:30 pm </th>
+    <th> Plenary 2 </th>
+  </tr>
+    <tr>
+    <th> 2:30 - 2:55 pm </th>
+    <th> Coffee Break/Networking </th>
+  </tr>
+    <tr>
+    <th> 3:00 - 03:35 pm </th>
+    <th> Breakout Session 3a </th>
+    <th> Breakout Session 3b </th>
+  </tr>
+    <tr>
+    <th> 3:45 - 4:20 pm </th>
+    <th> Breakout Session 4a </th>
+    <th> Breakout Session 4b </th>
+  </tr>
+    </tr>
+    <tr>
+    <th> 4:30 - 4:40 pm </th>
+    <th> Closing </th>
+  </tr>
+    </tr>
+    <tr>
+    <th> 4:40 - ? </th>
+    <th> Happy Hour at TBD </th>
+  </tr>
+</table>
 
 noRth is a collaboration between the following groups:
 

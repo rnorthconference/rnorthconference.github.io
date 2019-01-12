@@ -26,63 +26,63 @@ noRth is aimed at intermediate R users and consists of a half-day (optional) sho
 
 <table class="table">
   <tr>
-    <th>8:00 - 8:45 am </th>
-    <th>noRth Registration/Coffee/Light Breakfast </th>
+    <td>8:00 - 8:45 am </th>
+    <td>noRth Registration/Coffee/Light Breakfast </th>
   </tr>
   <tr>
-    <th>8:50 - 9:05 am </th>
-    <th> Welcome </th>
+    <td>8:50 - 9:05 am </th>
+    <td> Welcome </th>
   </tr>
     <tr>
-    <th>9:05 - 10:05 am </th>
-    <th> Plenary 1 </th>
+    <td>9:05 - 10:05 am </th>
+    <td> Plenary 1 </th>
   </tr>
   <tr>
-    <th>10:05 - 10:30 am </th>
-    <th> Coffee Break/Networking </th>
+    <td>10:05 - 10:30 am </th>
+    <td> Coffee Break/Networking </th>
   </tr>
   <tr>
-    <th>10:35 - 11:10 am </th>
-    <th> Breakout Session 1a </th>
-    <th> Breakout Session 1b </th>
+    <td>10:35 - 11:10 am </th>
+    <td> Breakout 1a </th>
+    <td> Breakout 1b </th>
   </tr>
   <tr>
-    <th>11:20 - 11:55 am </th>
-    <th> Breakout Session 2a </th>
-    <th> Breakout Session 2b </th>
+    <td>11:20 - 11:55 am </th>
+    <td> Breakout 2a </th>
+    <td> Breakout 2b </th>
   </tr>
     <tr>
-    <th>12:00 - 1:20 pm </th>
-    <th> Lunch Break </th>
+    <td>12:00 - 1:20 pm </th>
+    <td> Lunch Break </th>
   </tr>
     </tr>
     <tr>
-    <th>1:30 - 2:30 pm </th>
-    <th> Plenary 2 </th>
+    <td>1:30 - 2:30 pm </th>
+    <td> Plenary 2 </th>
   </tr>
     <tr>
-    <th> 2:30 - 2:55 pm </th>
-    <th> Coffee Break/Networking </th>
+    <td> 2:30 - 2:55 pm </th>
+    <td> Coffee Break/Networking </th>
   </tr>
     <tr>
-    <th> 3:00 - 03:35 pm </th>
-    <th> Breakout Session 3a </th>
-    <th> Breakout Session 3b </th>
+    <td> 3:00 - 03:35 pm </th>
+    <td> Breakout 3a </th>
+    <td> Breakout 3b </th>
   </tr>
     <tr>
-    <th> 3:45 - 4:20 pm </th>
-    <th> Breakout Session 4a </th>
-    <th> Breakout Session 4b </th>
-  </tr>
-    </tr>
-    <tr>
-    <th> 4:30 - 4:40 pm </th>
-    <th> Closing </th>
+    <td> 3:45 - 4:20 pm </th>
+    <td> Breakout 4a </th>
+    <td> Breakout 4b </th>
   </tr>
     </tr>
     <tr>
-    <th> 4:40 - ? </th>
-    <th> Happy Hour at TBD </th>
+    <td> 4:30 - 4:40 pm </th>
+    <td> Closing </th>
+  </tr>
+    </tr>
+    <tr>
+    <td> 4:40 - ? </th>
+    <td> Happy Hour at TBD </th>
   </tr>
 </table>
 

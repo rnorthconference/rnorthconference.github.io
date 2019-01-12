@@ -56,6 +56,17 @@ table.table { width: 100%; }
 .table th, .table td { 
   text-align: left; 
   padding: 0.25em;
+  background-color: darkblue;
+  color: white;
+}
+
+td:nth-child(2) { 
+  background-color: white;
+  color: darkblue;
+}
+td:nth-child(3) { 
+  background-color: white;
+  color: darkblue;
 }
 
 .table tr { 
@@ -83,18 +94,18 @@ button.delete { background: #F69; }
     flex-direction: row;
     flex-wrap: wrap;
     margin: 0.5em 0;
-    border: 1px solid rgba(3,3,3,0.2);
+    border: 1px solid rgba(255,255,255, 0.9);
   }
   td, th {
     flex: 1 1 150px;
-    border: 0.5px solid rgba(3,3,3,0.2);
+    border: 0.5px solid rgba(255,255,255, 0.9);
   }
   td.edit-buttons, td.empty {
      
   }
 }
 
-* { box-model: border-box; font-family: 'futura'; }
+* { box-model: border-box; }
 </style>
 
 

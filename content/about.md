@@ -61,7 +61,7 @@ noRth is aimed at intermediate R users and consists of a half-day (optional) sho
   </tr>
     <tr>
     <td class="firstbreak"> 12:00 - 1:20 pm </th>
-    <td> Lunch Break </th>
+    <td> <a href="https://drive.google.com/open?id=15fD4CPo4diuA5EbXOyYNy7fv8eIbyFHW&usp=sharing" target="_blank">Lunch Break (on your own) </a> </th>
   </tr>
     </tr>
     <tr>

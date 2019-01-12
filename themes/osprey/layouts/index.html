@@ -14,7 +14,7 @@
       {{ end }}
       
       <!-- Blog -->
-      {{ if not (eq (len (where .Data.Pages "Section" "blog")) 0) }}
+      {{ if not (eq (len (where .Data.Pages "Section" "conduct")) 0) }}
         {{ partial "blog.html" . }}
       {{ end }}
 

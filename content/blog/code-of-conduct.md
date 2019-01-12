@@ -25,7 +25,6 @@ All event participants are expected to behave in accordance with professional st
 ## Unacceptable Behavior
 
 Harassment will not be tolerated in any form, including but not limited to:
-
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held.
 * Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of 'dead' or rejected names.
@@ -49,7 +48,6 @@ except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.  
 
 noRth prioritizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
-
 * 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'.
 * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
 * Communicating in a 'tone' you don't find congenial.
@@ -66,7 +64,6 @@ In order to protect volunteers from abuse and burnout, we reserve the right to r
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we've received harassment complaints, or privately warn third parties about them if we believe that doing so will increase the safety of noRth participants or the general public. We will not name harassment victims without their affirmative consent.
 
 Conference staff will also provide support to victims, including, but not limited to:
-
 - Providing an escort
 - Contacting hotel/venue security or local law enforcement
 - Briefing key event staff for response/victim assistance

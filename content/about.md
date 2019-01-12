@@ -93,9 +93,3 @@ noRth is aimed at intermediate R users and consists of a half-day (optional) sho
     <td> Happy Hour at TBD </th>
   </tr>
 </table>
-
-noRth is a collaboration between the following groups:
-
-* <a href="https://www.meetup.com/RLadiesTC/" target="_blank"> R-Ladies Twin Cities</a> 
-* <a href="https://www.meetup.com/twincitiesrug/" target="_blank"> Twin Cities R User Group</a> 
-* <a href="http://irsa.stat.umn.edu/" target="_blank"> Institute for Research and Statistical Applications</a>

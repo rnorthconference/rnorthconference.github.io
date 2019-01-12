@@ -70,7 +70,7 @@ noRth is aimed at intermediate R users and consists of a half-day (optional) sho
   </tr>
     <tr>
     <td class="firstbreak"> 2:30 - 2:55 pm </th>
-    <td> Coffee Break/Networking </th>
+    <td> Coffee Break & Networking </th>
   </tr>
     <tr>
     <td class="first"> 3:00 - 3:35 pm </th>

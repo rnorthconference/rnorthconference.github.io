@@ -25,6 +25,7 @@ All event participants are expected to behave in accordance with professional st
 ## Unacceptable Behavior
 
 Harassment will not be tolerated in any form, including but not limited to:
+
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held.
 * Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of 'dead' or rejected names.
@@ -47,12 +48,6 @@ harassment purposes.
 except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.  
 
-noRth prioritizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
-* 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'.
-* Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
-* Communicating in a 'tone' you don't find congenial.
-* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
-
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of event staff immediately. Event staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You can contact us at <a href='mailto:rnorthconf@gmail.com'> rnorthconf@gmail.com</a>.
@@ -69,7 +64,7 @@ Conference staff will also provide support to victims, including, but not limite
 - Briefing key event staff for response/victim assistance
 - And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.
 
-### Consequences
+## Consequences
 
 If a participant engages in behavior in violation of the CoC, the conference organizers may take any action they deem appropriate, ranging from issuing a warning to expulsion from the conference with no refund, depending on the circumstances. noRth reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further noRth events, trainings or other activities.
 

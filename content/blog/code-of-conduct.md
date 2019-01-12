@@ -16,11 +16,11 @@ noRth is dedicated to providing a harassment-free experience for participants at
 
 A **Code of Conduct** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identity of the community and organization. If you have general questions about codes of conduct, a good place to start is this [code of conduct FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq#cocfaq).
 
-This code (CoC) applies to any participant at noRth, including participants in meetings, teleconferences, and mailing lists, as well as in-person events. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
+This code (CoC) applies to any participant at noRth. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
 
 ## Expected Behavior
 
-All event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer's policies governing appropriate workplace behavior, and all applicable laws.
+All event participants are expected to behave in accordance with professional standards, with both this CoC as well as their respective employer's policies governing appropriate workplace behavior, and all applicable laws.
 
 ## Unacceptable Behavior
 
@@ -57,7 +57,7 @@ noRth prioritizes marginalized people's safety over privileged people's comfort.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of event staff immediately. Event staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You can contact us at <a href='mailto:rnorthconf@gmail.com'> rnorthconf@gmail.com</a>.
 
-While this code of conduct applies to spaces associated with noRth, if you are being harassed by a guest/participant of/at noRth outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by noRth participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The noRth organizing committee reserves the right to exclude people from noRth based on their past behavior, including behavior outside noRth spaces and behavior towards people who are not part of noRth.
+While this CoC applies to spaces associated with noRth, if you are being harassed by a guest/participant of/at noRth outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by noRth participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The noRth organizing committee reserves the right to exclude people from noRth based on their past behavior, including behavior outside noRth spaces and behavior towards people who are not part of noRth.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 

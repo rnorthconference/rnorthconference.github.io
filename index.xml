@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>noRth 2019 Conference</title>
-    <link>/</link>
+    <link>https://rnorthconference.github.io/</link>
     <description>Recent content on noRth 2019 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rnorthconference.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Christina Knudson</title>
-      <link>/gallery/9_cknudson/</link>
+      <link>https://rnorthconference.github.io/gallery/9_cknudson/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/9_cknudson/</guid>
+      <guid>https://rnorthconference.github.io/gallery/9_cknudson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soumya Kalra</title>
-      <link>/gallery/1_skalra/</link>
+      <link>https://rnorthconference.github.io/gallery/1_skalra/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/1_skalra/</guid>
+      <guid>https://rnorthconference.github.io/gallery/1_skalra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soumya Kalra</title>
-      <link>/gallery2/1_skalra/</link>
+      <link>https://rnorthconference.github.io/gallery2/1_skalra/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/gallery2/1_skalra/</guid>
+      <guid>https://rnorthconference.github.io/gallery2/1_skalra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://rnorthconference.github.io/about/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://rnorthconference.github.io/about/</guid>
       <description>noRth is aimed at intermediate to advanced R users and consists of a half-day (optional) short course and a day of interactive talks. The conference will be held on August 15-16, 2019 in Bruininks Hall on the campus of the University of Minnesota. The tentative schedule is below (i.e. subject to changes).
 Thursday, August 15, 2019  1:00 - 1:25 pm Workshop Registration    1:30 - 2:45 pm Shiny Workshop Pt.</description>
     </item>
     
     <item>
       <title>Amelia McNamara</title>
-      <link>/gallery/3_amcnamara/</link>
+      <link>https://rnorthconference.github.io/gallery/3_amcnamara/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/3_amcnamara/</guid>
+      <guid>https://rnorthconference.github.io/gallery/3_amcnamara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An-Ting Jhuang</title>
-      <link>/gallery/6_ajhuang/</link>
+      <link>https://rnorthconference.github.io/gallery/6_ajhuang/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/6_ajhuang/</guid>
+      <guid>https://rnorthconference.github.io/gallery/6_ajhuang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carson Sievert</title>
-      <link>/gallery/5_csievert/</link>
+      <link>https://rnorthconference.github.io/gallery/5_csievert/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/5_csievert/</guid>
+      <guid>https://rnorthconference.github.io/gallery/5_csievert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code of Conduct</title>
-      <link>/blog/code-of-conduct/</link>
+      <link>https://rnorthconference.github.io/blog/code-of-conduct/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/code-of-conduct/</guid>
+      <guid>https://rnorthconference.github.io/blog/code-of-conduct/</guid>
       <description>noRth is dedicated to providing a harassment-free experience for participants at our event(s). noRth is a conference intended for professional networking and collaboration in the R community. We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group.
 A Code of Conduct is useful to define accepted and acceptable behaviors and to promote high standards of professional practice.</description>
     </item>
     
     <item>
       <title>Heather Lendway</title>
-      <link>/gallery/4_hlendway/</link>
+      <link>https://rnorthconference.github.io/gallery/4_hlendway/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/4_hlendway/</guid>
+      <guid>https://rnorthconference.github.io/gallery/4_hlendway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Katie Jolly</title>
-      <link>/gallery/7_kjolly/</link>
+      <link>https://rnorthconference.github.io/gallery/7_kjolly/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/7_kjolly/</guid>
+      <guid>https://rnorthconference.github.io/gallery/7_kjolly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kim Eng Ky</title>
-      <link>/gallery/8_kky/</link>
+      <link>https://rnorthconference.github.io/gallery/8_kky/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/8_kky/</guid>
+      <guid>https://rnorthconference.github.io/gallery/8_kky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Winston Chang</title>
-      <link>/gallery/2_wchang/</link>
+      <link>https://rnorthconference.github.io/gallery/2_wchang/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/2_wchang/</guid>
+      <guid>https://rnorthconference.github.io/gallery/2_wchang/</guid>
       <description></description>
     </item>
     

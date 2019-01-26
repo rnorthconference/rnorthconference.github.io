@@ -6,7 +6,7 @@ company = "University of St. Thomas"
 image = "cknudson.jpg"
 alt = "Christina Knudson"
 color = "#212121"
-link1 = "https://cknudson.com/"
-link2 = ""
+link1 = "https://www.linkedin.com/in/christinaknudson/"
+link2 = "https://cknudson.com/"
 
 +++

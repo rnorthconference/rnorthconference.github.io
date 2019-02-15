@@ -75,7 +75,7 @@
                 {{ if gt $galleryTotal 1 }} col-md-6
                     {{ if gt $galleryTotal 7 }}
                         {{ if modBool $galleryTotal 4 }} col-lg-3
-                        {{ else }} col-lg-4
+                        {{ else }} col-lg-3
                         {{ end }}
                     {{ end }}
                 {{ end }}" onclick {{ if .Params.color }}style="background-color:{{ .Params.color }}"{{ end }}>

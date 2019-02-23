@@ -2,7 +2,7 @@
 date = "2018-12-27"
 title = "Amelia McNamara"
 position = "Asst. Professor"
-company = "University of St. Thomas"
+company = "Univ. of St. Thomas"
 image = "amcnamara.jpg"
 alt = "Amelia McNamara"
 color = "#212121"

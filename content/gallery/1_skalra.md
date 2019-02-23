@@ -1,8 +1,8 @@
 +++
 date = "2019-01-12"
 title = "Soumya Kalra"
-position = "Co-organizer"
-company = "R-Ladies New York"
+position = "Co-lead"
+company = "R-Ladies NYC"
 image = "skalra.jpeg"
 alt = "Soumya Kalra"
 color = "#212121"

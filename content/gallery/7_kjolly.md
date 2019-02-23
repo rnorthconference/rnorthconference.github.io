@@ -1,8 +1,8 @@
 +++
 date = "2018-12-27"
 title = "Katie Jolly"
-position = "Co-organizer"
-company =  "R-Ladies Twin Cities"
+position = "Co-lead"
+company =  "R-Ladies TC"
 image = "kjolly.jpeg"
 alt = "Katie Jolly"
 color = "#212121"

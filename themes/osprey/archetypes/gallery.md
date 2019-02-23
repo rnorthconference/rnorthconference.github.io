@@ -1,5 +1,6 @@
 +++
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
+position = ""
 date = {{ .Date }}
 image = ""
 alt = ""

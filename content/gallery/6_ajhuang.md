@@ -2,7 +2,7 @@
 date = "2018-12-27"
 title = "An-Ting Jhuang"
 position = "Data Scientist"
-company = "UnitedHealth Group"
+company = "UHG R&D (Savvysherpa)"
 image = "ajhuang.jpeg"
 alt = "An-Ting Jhuang"
 color = "#212121"

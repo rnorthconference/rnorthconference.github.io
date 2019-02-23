@@ -2,7 +2,7 @@
 date = "2018-12-27"
 title = "Kim Eng Ky"
 position = "Sr. Data Scientist"
-company = "United Health Group"
+company = "UnitedHealth Group"
 image = "kky.jpeg"
 alt = "Kim Eng Ky"
 color = "#212121"

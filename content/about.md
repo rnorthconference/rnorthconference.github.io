@@ -4,7 +4,7 @@ date = "2018-12-27"
 draft = false
 +++
 
-noRth is aimed at intermediate to advanced R users and consists of a half-day (optional) short course and a day of interactive talks. The conference will be held on August 15-16, 2019 in <a href="https://goo.gl/maps/iTcZAfEzxmp target="_blank"> Bruininks Hall</a> on the campus of the University of Minnesota. The tentative schedule is below (i.e. subject to changes).
+noRth is aimed at intermediate to advanced R users and consists of a half-day (optional) short course and a day of interactive talks. The conference will be held on August 15-16, 2019 in <a href="https://goo.gl/maps/iTcZAfEzxmp target="_blank"> Bruininks Hall</a> on the campus of the University of Minnesota. The day will consist of two plenary talks and breakout options for four additional talks. The tentative schedule is below (i.e. subject to changes).
 
 ## Thursday, August 15, 2019
 <table class="table">
@@ -34,62 +34,62 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
 
 <table class="table">
   <tr>
-    <td class="firstbreak"> 8:00 - 8:45 am </th>
-    <td>noRth Registration with coffee and light breakfast </th>
+    <td class="firstbreak"> 8:00 - 8:45 am </td>
+    <td>noRth Registration with coffee and light breakfast </td>
   </tr>
   <tr>
-    <td class="first"> 8:50 - 9:05 am </th>
-    <td> Welcome </th>
+    <td class="first"> 8:50 - 9:05 am </td>
+    <td> Welcome </td>
   </tr>
     <tr>
-    <td class="first"> 9:05 - 10:05 am </th>
-    <td> Plenary 1 </th>
+    <td class="first"> 9:05 - 10:05 am (Plenary 1) </td>
+    <td> Amelia McNamara - Why the Tidyverse? (tidyverse, dplyr, skimr, forcats, statistical software, design principles)</td>
   </tr>
   <tr>
-    <td class="firstbreak"> 10:05 - 10:30 am </th>
-    <td> Coffee Break & Networking </th>
+    <td class="firstbreak"> 10:05 - 10:30 am </td>
+    <td> Coffee Break & Networking </td>
   </tr>
   <tr>
-    <td class="first"> 10:35 - 11:10 am </th>
-    <td> Breakout 1a </th>
-    <td> Breakout 1b </th>
+    <td class="first"> 10:35 - 11:10 am (Breakout 1a/b) </td>
+    <td> Carson Seivert - Generating reproducible reports from a shiny app (shiny, rmarkdown, rlang) </td>
+    <td> An-Ting Jhuang</td>
   </tr>
   <tr>
-    <td class="first"> 11:20 - 11:55 am </th>
-    <td> Breakout 2a </th>
-    <td> Breakout 2b </th>
+    <td class="first"> 11:20 - 11:55 am (Breakout 2a/b) </td>
+    <td> Heather Lendway </td>
+    <td> Christina Knudson</td>
   </tr>
     <tr>
-    <td class="firstbreak"> 12:00 - 1:20 pm </th>
-    <td> <a href="https://drive.google.com/open?id=15fD4CPo4diuA5EbXOyYNy7fv8eIbyFHW&usp=sharing" target="_blank">Lunch Break (on your own) </a> </th>
+    <td class="firstbreak"> 12:00 - 1:20 pm </td>
+    <td> <a href="https://drive.google.com/open?id=15fD4CPo4diuA5EbXOyYNy7fv8eIbyFHW&usp=sharing" target="_blank">Lunch Break (on your own) </a> </td>
   </tr>
     </tr>
     <tr>
-    <td class="first"> 1:30 - 2:30 pm </th>
-    <td> Plenary 2 </th>
+    <td class="first"> 1:30 - 2:30 pm (Plenary 2)</td>
+    <td> Winston Chang </th>
   </tr>
     <tr>
-    <td class="firstbreak"> 2:30 - 2:55 pm </th>
-    <td> Coffee Break & Networking </th>
+    <td class="firstbreak"> 2:30 - 2:55 pm  </td>
+    <td> Coffee Break & Networking </td>
   </tr>
     <tr>
-    <td class="first"> 3:00 - 3:35 pm </th>
-    <td> Breakout 3a </th>
-    <td> Breakout 3b </th>
+    <td class="first"> 3:00 - 3:35 pm (Breakout 3a/b) </td>
+    <td> Matt Pettis </td>
+    <td> Brian Kreeger</td>
   </tr>
     <tr>
-    <td class="first"> 3:45 - 4:20 pm </th>
-    <td> Breakout 4a </th>
-    <td> Breakout 4b </th>
+    <td class="first"> 3:45 - 4:20 pm (Breakout 4a/b) </td>
+    <td> Kim Ky </td>
+    <td> Katie Jolly - Talking points (in polygons): A discussion of geographic data science (sf, r-spatial, visualization, autocorrelation, regression) </td>
   </tr>
     </tr>
     <tr>
-    <td class="first"> 4:30 - 4:40 pm </th>
+    <td class="first"> 4:30 - 4:40 pm </td>
     <td> Closing </th>
   </tr>
     </tr>
     <tr>
-    <td class="firstbreak"> 4:40 - ? </th>
-    <td> Happy Hour at TBD </th>
+    <td class="firstbreak"> 4:40 - ? </td>
+    <td> Happy Hour at TBD </td>
   </tr>
 </table>

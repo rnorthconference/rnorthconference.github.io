@@ -14,7 +14,7 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
   </tr>
   <tr>
     <td class="first">1:30 - 2:45 pm</td>
-    <td>Shiny Workshop Pt. I</td> 
+    <td>Soumya Kalra - Shiny Workshop Pt. I</td> 
   </tr>
     <tr>
     <td class="firstbreak">2:45 - 3:00 pm</td>
@@ -22,7 +22,7 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
   </tr>
     <tr>
     <td class="first">3:00 - 4:30 pm</td>
-    <td>Shiny Workshop Pt. II</td> 
+    <td>Soumya Kalra - Shiny Workshop Pt. II</td> 
   </tr>
     <tr>
     <td class="first">4:30 - ?</td>
@@ -50,14 +50,14 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
     <td> Coffee Break & Networking </td>
   </tr>
   <tr>
-    <td class="first"> 10:35 - 11:10 am (Breakout 1a/b) </td>
-    <td> Carson Seivert - Generating reproducible reports from a shiny app (shiny, rmarkdown, rlang) </td>
-    <td> An-Ting Jhuang</td>
+    <td class="first"> 10:35 - 11:10 am (Breakout 1) </td>
+    <td> (a) Carson Seivert - Generating reproducible reports from a shiny app (shiny, rmarkdown, rlang) </td>
+    <td> (b) An-Ting Jhuang</td>
   </tr>
   <tr>
-    <td class="first"> 11:20 - 11:55 am (Breakout 2a/b) </td>
-    <td> Heather Lendway </td>
-    <td> Christina Knudson</td>
+    <td class="first"> 11:20 - 11:55 am (Breakout 2) </td>
+    <td> (a) Heather Lendway </td>
+    <td> (b) Christina Knudson</td>
   </tr>
     <tr>
     <td class="firstbreak"> 12:00 - 1:20 pm </td>
@@ -73,14 +73,14 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
     <td> Coffee Break & Networking </td>
   </tr>
     <tr>
-    <td class="first"> 3:00 - 3:35 pm (Breakout 3a/b) </td>
-    <td> Matt Pettis </td>
-    <td> Brian Kreeger</td>
+    <td class="first"> 3:00 - 3:35 pm (Breakout 3) </td>
+    <td> (a) Matt Pettis </td>
+    <td> (b) Brian Kreeger</td>
   </tr>
     <tr>
-    <td class="first"> 3:45 - 4:20 pm (Breakout 4a/b) </td>
-    <td> Kim Ky </td>
-    <td> Katie Jolly - Talking points (in polygons): A discussion of geographic data science (sf, r-spatial, visualization, autocorrelation, regression) </td>
+    <td class="first"> 3:45 - 4:20 pm (Breakout 4) </td>
+    <td> (a) Kim Ky </td>
+    <td> (b) Katie Jolly - Talking points (in polygons): A discussion of geographic data science (sf, r-spatial, visualization, autocorrelation, regression) </td>
   </tr>
     </tr>
     <tr>

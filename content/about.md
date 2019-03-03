@@ -79,7 +79,7 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
   </tr>
     <tr>
     <td class="first"> 3:45 - 4:20 pm (Breakout 4) </td>
-    <td> (a) Kim Ky </td>
+    <td> (a) Kim Ky - Prepare your data with data.table: an introduction (data.table, data cleaning)</td>
     <td> (b) Katie Jolly - Talking points (in polygons): A discussion of geographic data science (sf, r-spatial, visualization, autocorrelation, regression) </td>
   </tr>
     </tr>

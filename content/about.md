@@ -66,7 +66,7 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
     </tr>
     <tr>
     <td class="first"> 1:30 - 2:30 pm (Plenary 2)</td>
-    <td> Winston Chang - What's new with Shiny</th>
+    <td> Winston Chang - What's new with Shiny (shiny) </th>
   </tr>
     <tr>
     <td class="firstbreak"> 2:30 - 2:55 pm  </td>

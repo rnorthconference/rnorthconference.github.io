@@ -75,7 +75,7 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
     <tr>
     <td class="first"> 3:00 - 3:35 pm (Breakout 3) </td>
     <td> (a) Matt Pettis </td>
-    <td> (b) Brian Kreeger</td>
+    <td> (b) Brian Kreeger - Stacking Models for Improving Performance (caret, machine learning, kaggle)</td>
   </tr>
     <tr>
     <td class="first"> 3:45 - 4:20 pm (Breakout 4) </td>

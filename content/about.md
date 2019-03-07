@@ -74,7 +74,8 @@ noRth is aimed at intermediate to advanced R users and consists of a half-day (o
   </tr>
     <tr>
     <td class="first"> 3:00 - 3:35 pm (Breakout 3) </td>
-    <td> (a) Matt Pettis </td>
+    <td> (a) Matt Pettis - 
+You Don't Bring Me Anything But Down: Using mark/book/blog-down for Great Profit </td>
     <td> (b) Brian Kreeger - Stacking Models for Improving Performance (caret, machine learning, kaggle)</td>
   </tr>
     <tr>

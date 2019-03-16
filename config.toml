@@ -15,13 +15,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 [Params]
   tagline = "A conference for R users in the Twin Cities and greater north region"
   author = "Lindsey Dietz"
-  description = ""
+  description = "noRth is aimed at intermediate to advanced R users and consists of a half-day (optional) short course and a day of interactive talks."
   logoBig = "/images/noRth2019.png" 
   logoSmall = "/images/north.jpg"
   favicon = "favicon.ico"
   opengraphImage = "/images/noRth2019.png"
   email = "rnorthconf@gmail.com"
-  googleTagManger = ""
+  googleTagManger = "GTM-PM9BK43"
   customCSS = true
 
   # Social media links in footer

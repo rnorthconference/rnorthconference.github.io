@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on noRth 2019 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://rnorthconference.github.io/blog/faq/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/blog/faq/</guid>
+      <description>How should I get there? Metro Transit (highly recommended): The green line light rail to the East Bank station is a 0.4 mile walk to Bruininks hall. There are also bus options .
+Parking: Nearby ramps are available for $12/day including the Weisman Art Museum Garage , East River Road Garage , and Church Street Garage .
+Where should I stay? If you are coming in from out of town, there are many options including staying on a transit line (see above).</description>
+    </item>
     
     <item>
       <title>Code of Conduct</title>

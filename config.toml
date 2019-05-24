@@ -57,10 +57,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#work"
   weight = 2
 [[menu.main]]
-  name = "Registration"
+  name = "Register"
   url  = "/#contact"
   weight = 3
 [[menu.main]]
-  name = "Conduct"
+  name = "FAQ/CoC"
   url  = "/#blog"
   weight = 4

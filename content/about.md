@@ -6,7 +6,7 @@ draft = false
 
 noRth is aimed at intermediate to advanced R users and consists of a half-day (optional) short course and a day of interactive talks. 
 
-The conference will be held on August 15-16, 2019 in 114 <a href="http://campusmaps.umn.edu/robert-h-bruininks-hall" target="_blank"> Bruininks Hall</a> on the Minneapolis East Bank campus of the University of Minnesota (click the link for parking/transit options).
+The conference will be held on August 15-16, 2019 in 114 <a href="http://campusmaps.umn.edu/robert-h-bruininks-hall" target="_blank"> Bruininks Hall</a> on the Minneapolis East Bank campus of the University of Minnesota.
 
 The seminar day will consist of two plenary talks and breakout options for four additional talks. The tentative schedule is below (i.e. subject to changes).
 

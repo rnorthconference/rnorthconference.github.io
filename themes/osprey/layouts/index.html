@@ -18,6 +18,7 @@
       
       <!-- Blog -->
       {{ if not (eq (len (where .Data.Pages "Section" "blog")) 0) }}
+        {{ partial "faq.html" . }}
         {{ partial "blog.html" . }}
       {{ end }}
 

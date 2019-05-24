@@ -6,10 +6,21 @@
     <description>Recent content on noRth 2019 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://rnorthconference.github.io/blog/faq/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/blog/faq/</guid>
+      <description>How should I get there? Metro Transit (highly recommended): The green line light rail to the East Bank station is a 0.4 mile walk to Bruininks hall. There are also bus options .
+Parking: Nearby ramps are available for $12/day including the Weisman Art Museum Garage , East River Road Garage , and Church Street Garage .
+Where should I stay? If you are coming in from out of town, there are many options including staying on a transit line (see above).</description>
+    </item>
     
     <item>
       <title>Brian Kreeger</title>
@@ -63,8 +74,8 @@
       
       <guid>https://rnorthconference.github.io/about/</guid>
       <description>noRth is aimed at intermediate to advanced R users and consists of a half-day (optional) short course and a day of interactive talks.
-The conference will be held on August 15-16, 2019 in 114 Bruininks Hall on the Minneapolis East Bank campus of the University of Minnesota (click the link for parking/transit options).
-The seminar day will consist of two plenary talks and breakout options for four additional talks. The tentative schedule is below (i.</description>
+The conference will be held on August 15-16, 2019 in 114 Bruininks Hall on the Minneapolis East Bank campus of the University of Minnesota.
+The seminar day will consist of two plenary talks and breakout options for four additional talks. The tentative schedule is below (i.e. subject to changes).</description>
     </item>
     
     <item>

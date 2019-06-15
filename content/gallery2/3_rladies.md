@@ -1,5 +1,5 @@
 +++
-date = "2019-01-12"
+date = "2019-06-12"
 title = "R-Ladies Twin Cities"
 image = "rladies.jpeg"
 alt = "R-Ladies"

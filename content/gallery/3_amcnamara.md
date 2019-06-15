@@ -1,5 +1,5 @@
 +++
-date = "2018-12-27"
+date = "2019-06-14"
 title = "Amelia McNamara"
 position = "Asst. Professor"
 company = "Univ. of St. Thomas"

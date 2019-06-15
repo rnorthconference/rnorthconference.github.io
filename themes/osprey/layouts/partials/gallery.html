@@ -4,7 +4,7 @@
     <div class="row">
 
         {{ $galleryTotal := len (where .Site.RegularPages "Section" "gallery") }}
-        {{ $galleryReverse := (where .Site.RegularPages.Reverse "Section" "gallery") }}
+        {{ $galleryReverse := (where .Site.RegularPages.ByDate.Reverse "Section" "gallery") }}
 
         <!-- Where gallery is an odd total -->
         {{ if not (modBool $galleryTotal 2) }}

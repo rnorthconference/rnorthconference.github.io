@@ -6,10 +6,55 @@
     <description>Recent content on noRth 2019 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Institute for Research in Statistics and its Applications</title>
+      <link>https://rnorthconference.github.io/gallery2/1_irsa/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery2/1_irsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soumya Kalra</title>
+      <link>https://rnorthconference.github.io/gallery/1_skalra/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery/1_skalra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amelia McNamara</title>
+      <link>https://rnorthconference.github.io/gallery/3_amcnamara/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery/3_amcnamara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winston Chang</title>
+      <link>https://rnorthconference.github.io/gallery/2_wchang/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery/2_wchang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Twin Cities</title>
+      <link>https://rnorthconference.github.io/gallery2/3_rladies/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery2/3_rladies/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FAQ</title>
@@ -50,33 +95,6 @@ Where should I stay? If you are coming in from out of town, there are many optio
     </item>
     
     <item>
-      <title>Institute for Research in Statistics and its Applications</title>
-      <link>https://rnorthconference.github.io/gallery2/1_irsa/</link>
-      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery2/1_irsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R-Ladies Twin Cities</title>
-      <link>https://rnorthconference.github.io/gallery2/3_rladies/</link>
-      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery2/3_rladies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Soumya Kalra</title>
-      <link>https://rnorthconference.github.io/gallery/1_skalra/</link>
-      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/1_skalra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Twin Cities ASA</title>
       <link>https://rnorthconference.github.io/gallery2/2_tcasa/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
@@ -103,15 +121,6 @@ Where should I stay? If you are coming in from out of town, there are many optio
       <description>noRth is aimed at intermediate to advanced R users and consists of a half-day (optional) short course and a day of interactive talks.
 The conference will be held on August 15-16, 2019 in 114 Bruininks Hall on the Minneapolis East Bank campus of the University of Minnesota.
 The seminar day will consist of two plenary talks and breakout options for four additional talks. The tentative schedule is below (i.e. subject to changes).</description>
-    </item>
-    
-    <item>
-      <title>Amelia McNamara</title>
-      <link>https://rnorthconference.github.io/gallery/3_amcnamara/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/3_amcnamara/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -166,15 +175,6 @@ A Code of Conduct is useful to define accepted and acceptable behaviors and to p
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/gallery/8_kky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Winston Chang</title>
-      <link>https://rnorthconference.github.io/gallery/2_wchang/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/2_wchang/</guid>
       <description></description>
     </item>
     

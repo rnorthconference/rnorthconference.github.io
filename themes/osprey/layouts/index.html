@@ -15,7 +15,8 @@
 
       <!-- Contact -->
       {{ partial "contact.html" . }}
-      
+      {{ partial "gallery2.html" . }}
+
       <!-- Blog -->
       {{ if not (eq (len (where .Data.Pages "Section" "blog")) 0) }}
         {{ partial "faq.html" . }}

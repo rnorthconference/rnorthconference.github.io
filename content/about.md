@@ -30,7 +30,7 @@ The seminar day will consist of two plenary talks and breakout options for four 
   </tr>
     <tr>
     <td class="first">4:20 - 4:30 pm</td>
-    <td>Closing - SWAG Giveaway sponsored by the <a href="https://amstatmn.org/" target="_blank">TC chapter of the American Statistical Association</a></td> 
+    <td>Closing - Prize drawings sponsored by <a href="https://amstatmn.org/" target="_blank">TC ASA</a></td> 
   </tr>
     <tr>
     <td class="first">4:30 - ?</td>
@@ -94,7 +94,7 @@ You Don't Bring Me Anything But Down: Using mark/book/blog-down for Great Profit
     </tr>
     <tr>
     <td class="first"> 4:30 - 4:40 pm </td>
-    <td> Closing - SWAG Giveaway sponsored by the <a href="https://amstatmn.org/" target="_blank">TC chapter of the American Statistical Association</a></th>
+    <td> Closing - Prize drawings sponsored by <a href="https://amstatmn.org/" target="_blank">TC ASA</a></th>
   </tr>
     </tr>
     <tr>

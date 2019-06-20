@@ -1,8 +1,8 @@
 +++
 date = "2019-06-15"
 title = "Soumya Kalra"
-position = "Co-lead"
-company = "R-Ladies NYC"
+position = "Quantitative Risk Specialist"
+company = "Federal Reserve Bank of San Francisco"
 image = "skalra.jpeg"
 alt = "Soumya Kalra"
 color = "#212121"

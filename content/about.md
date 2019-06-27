@@ -59,7 +59,7 @@ The seminar day will consist of two plenary talks and breakout options for four 
   </tr>
   <tr>
     <td class="first"> 10:35 - 11:10 am (Breakout 1) </td>
-    <td> (114 Bruininks) Carson Seivert - Generating reproducible reports from a shiny app (shiny, rmarkdown, rlang) </td>
+    <td> (114 Bruininks) Carson Sievert - Generating reproducible reports from a shiny app (shiny, rmarkdown, rlang) </td>
     <td> (432 Bruininks) An-Ting Jhuang - An Introduction to Bayesian Statistics Pt. I </td>
   </tr>
   <tr>

@@ -4,13 +4,13 @@ date = "2018-12-27"
 draft = false
 +++
 
-noRth is aimed at intermediate to advanced R users and consists of a half-day (optional) short course and a day of interactive talks. 
+noRth is aimed at intermediate to advanced R users and consists of a half-day Shiny short course (SOLD OUT - waitlist available) and a day of interactive talks. 
 
 The conference will be held on August 15-16, 2019 in <a href="https://roomsearch.umn.edu/room_diagrams/pdf/299BruH114.pdf" target="_blank"> 114 </a> & <a href="https://roomsearch.umn.edu/room_diagrams/pdf/299BruH432.pdf" target="_blank"> 432 </a> Bruininks Hall on the <a href="http://campusmaps.umn.edu/robert-h-bruininks-hall" target="_blank"> Minneapolis East Bank </a> campus of the University of Minnesota.
 
 The seminar day will consist of two plenary talks and breakout options for four additional talks. Bring your laptop and come ready to learn! The tentative schedule is below (i.e. subject to changes).
 
-## Thursday, August 15, 2019
+## Thursday, August 15, 2019 (SOLD OUT - waitlist available)
 <table class="table">
   <tr>
     <td class="firstbreak">1:00 - 1:25 pm (432 Bruininks)</td>

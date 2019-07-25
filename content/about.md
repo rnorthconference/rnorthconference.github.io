@@ -34,7 +34,8 @@ The seminar day will consist of two plenary talks and breakout options for four 
   </tr>
     <tr>
     <td class="first">4:30 - ?</td>
-    <td>Happy Hour at TBD</td> 
+    <td>Happy Hour -  <a href="https://www.graduatehotels.com/minneapolis/restaurant/the-beacon/" target="_blank">Beacon Public House</a>
+    </td> 
   </tr>  
 </table>
 
@@ -98,6 +99,6 @@ The seminar day will consist of two plenary talks and breakout options for four 
     </tr>
     <tr>
     <td class="firstbreak"> 4:40 - ? </td>
-    <td> Happy Hour at TBD </td>
+    <td>Happy Hour -  <a href="http://sallyssaloon.net/" target="_blank">Sally's</a>
   </tr>
 </table>

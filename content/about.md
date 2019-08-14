@@ -33,8 +33,8 @@ The seminar day will consist of two plenary talks and breakout options for four 
     <td>Closing- <a href="http://amstatmn.org/" target="_blank">Prize drawings sponsored by TC ASA</a> </td> 
   </tr>
     <tr>
-    <td class="first">4:30 - ?</td>
-    <td>Happy Hour -  <a href="https://www.graduatehotels.com/minneapolis/restaurant/the-beacon/" target="_blank">Beacon Public House</a>
+    <td class="first">4:30 - 6:00 pm </td>
+    <td>Happy Hour(ish) -  <a href="https://www.graduatehotels.com/minneapolis/restaurant/the-beacon/" target="_blank">Beacon Public House</a>
     </td> 
   </tr>  
 </table>
@@ -98,7 +98,7 @@ The seminar day will consist of two plenary talks and breakout options for four 
   </tr>
     </tr>
     <tr>
-    <td class="firstbreak"> 4:40 - ? </td>
-    <td>Happy Hour -  <a href="http://sallyssaloon.net/" target="_blank">Sally's</a>
+    <td class="firstbreak"> 4:40 - 6:00 pm </td>
+    <td>Happy Hour(ish) -  <a href="http://sallyssaloon.net/" target="_blank">Sally's</a>
   </tr>
 </table>

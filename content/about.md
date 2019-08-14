@@ -75,7 +75,7 @@ The seminar day will consist of two plenary talks and breakout options for four 
     </tr>
     <tr>
     <td class="first"> 1:30 - 2:30 pm (Plenary 2 - 114 Bruininks)</td>
-    <td> Winston Chang - What's new with Shiny (shiny) </th>
+    <td> Winston Chang - From R user to tool maker: lessons learned from writing R software </th>
   </tr>
     <tr>
     <td class="firstbreak"> 2:30 - 2:55 pm  </td>

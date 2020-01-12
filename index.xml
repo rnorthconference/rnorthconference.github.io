@@ -2,58 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>noRth 2020 Conference</title>
-    <link>https://rnorthconference.github.io/</link>
+    <link>/</link>
     <description>Recent content on noRth 2020 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rnorthconference.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>noRth is aimed at intermediate to advanced R users and consists of a half-day short course and a day of interactive talks.
+The conference will be held in August 2020 in Bruininks Hall on the Minneapolis East Bank campus of the University of Minnesota.
+The seminar day will consist of two plenary talks and breakout options for four additional talks. Bring your laptop and come ready to learn! The schedule is being determined now and will be available soon!</description>
+    </item>
+    
+    <item>
       <title>Institute for Research in Statistics and its Applications</title>
-      <link>https://rnorthconference.github.io/gallery2/1_irsa/</link>
+      <link>/gallery2/1_irsa/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery2/1_irsa/</guid>
+      <guid>/gallery2/1_irsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R-Ladies Twin Cities</title>
-      <link>https://rnorthconference.github.io/gallery2/3_rladies/</link>
+      <link>/gallery2/3_rladies/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery2/3_rladies/</guid>
+      <guid>/gallery2/3_rladies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://rnorthconference.github.io/blog/faq/</link>
+      <link>/blog/faq/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/blog/faq/</guid>
+      <guid>/blog/faq/</guid>
       <description>How should I get there? Metro Transit (highly recommended): The green line light rail to the East Bank station is a 0.4 mile walk to Bruininks hall. There are also bus options .
 Biking (highly recommended): There is a Nice Ride  station adjacent to Bruininks Hall on the 2nd level entrance to the Washington Avenue Bridge. There are also several bike parking  cages nearby (U-locks are a must have for safe bike lock-up).</description>
     </item>
     
     <item>
       <title>Twin Cities R Users Group</title>
-      <link>https://rnorthconference.github.io/gallery2/4_rusergroup/</link>
+      <link>/gallery2/4_rusergroup/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery2/4_rusergroup/</guid>
+      <guid>/gallery2/4_rusergroup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://rnorthconference.github.io/blog/code-of-conduct/</link>
+      <link>/blog/code-of-conduct/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/blog/code-of-conduct/</guid>
+      <guid>/blog/code-of-conduct/</guid>
       <description>noRth is dedicated to providing a harassment-free experience for participants at our event(s). noRth is a conference intended for professional networking and collaboration in the R community. We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group.
 A Code of Conduct is useful to define accepted and acceptable behaviors and to promote high standards of professional practice.</description>
     </item>

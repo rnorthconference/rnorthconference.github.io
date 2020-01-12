@@ -94,7 +94,7 @@ The seminar day will consist of two plenary talks and breakout options for four 
     </tr>
     <tr>
     <td class="first"> 4:30 - 4:40 pm </td>
-    <td> Closing </th>
+    <td> Closing </td>
   </tr>
     </tr>
     <tr>

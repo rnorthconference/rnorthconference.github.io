@@ -1,0 +1,10 @@
++++ date = "2019-06-15" 
+title = "Haema Nilakanta" 
+position = "Data Scientist" 
+company = "Target" 
+image = "hnilakanta.jpeg" 
+alt = "Haema Nilakanta" 
+color = "#212121" 
+link1 = "https://www.linkedin.com/in/haema-nilakanta-a7021b20/" 
+link2 = ""
++++

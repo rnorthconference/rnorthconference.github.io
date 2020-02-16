@@ -23,9 +23,9 @@ The seminar day will consist of two plenary talks and breakout options for four 
     </item>
     
     <item>
-      <title>Institute for Research in Statistics and its Applications</title>
+      <title>Institute for Research in Statistical Applications</title>
       <link>/gallery2/1_irsa/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/gallery2/1_irsa/</guid>
       <description></description>
@@ -67,6 +67,15 @@ A Code of Conduct is useful to define accepted and acceptable behaviors and to p
       
       <guid>/about/</guid>
       <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/gallery/1_hnilakanta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/1_hnilakanta/</guid>
+      <description>+++ date = &amp;ldquo;2019-06-15&amp;rdquo; title = &amp;ldquo;Haema Nilakanta&amp;rdquo; position = &amp;ldquo;Data Scientist&amp;rdquo; company = &amp;ldquo;Target&amp;rdquo; image = &amp;ldquo;hnilakanta.jpeg&amp;rdquo; alt = &amp;ldquo;Haema Nilakanta&amp;rdquo; color = &amp;ldquo;#212121&amp;rdquo; link1 = &amp;ldquo;https://www.linkedin.com/in/haema-nilakanta-a7021b20/&amp;quot; link2 = &amp;ldquo;&amp;rdquo; +++</description>
     </item>
     
   </channel>

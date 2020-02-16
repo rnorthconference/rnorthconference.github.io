@@ -2,112 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on noRth 2020 Conference</title>
-    <link>https://rnorthconference.github.io/gallery/</link>
+    <link>/gallery/</link>
     <description>Recent content in Galleries on noRth 2020 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rnorthconference.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Soumya Kalra</title>
-      <link>https://rnorthconference.github.io/gallery/1_skalra/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/1_skalra/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Amelia McNamara</title>
-      <link>https://rnorthconference.github.io/gallery/3_amcnamara/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/gallery/1_hnilakanta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/3_amcnamara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Winston Chang</title>
-      <link>https://rnorthconference.github.io/gallery/2_wchang/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/2_wchang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brian Kreeger</title>
-      <link>https://rnorthconference.github.io/gallery/10_bkreeger/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/10_bkreeger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christina Knudson</title>
-      <link>https://rnorthconference.github.io/gallery/9_cknudson/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/9_cknudson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matt Pettis</title>
-      <link>https://rnorthconference.github.io/gallery/11_mpettis/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/11_mpettis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An-Ting Jhuang</title>
-      <link>https://rnorthconference.github.io/gallery/6_ajhuang/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/6_ajhuang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carson Sievert</title>
-      <link>https://rnorthconference.github.io/gallery/5_csievert/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/5_csievert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heather Lendway</title>
-      <link>https://rnorthconference.github.io/gallery/4_hlendway/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/4_hlendway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Katie Jolly</title>
-      <link>https://rnorthconference.github.io/gallery/7_kjolly/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/7_kjolly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kim Eng Ky</title>
-      <link>https://rnorthconference.github.io/gallery/8_kky/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/8_kky/</guid>
-      <description></description>
+      <guid>/gallery/1_hnilakanta/</guid>
+      <description>+++ date = &amp;ldquo;2019-06-15&amp;rdquo; title = &amp;ldquo;Haema Nilakanta&amp;rdquo; position = &amp;ldquo;Data Scientist&amp;rdquo; company = &amp;ldquo;Target&amp;rdquo; image = &amp;ldquo;hnilakanta.jpeg&amp;rdquo; alt = &amp;ldquo;Haema Nilakanta&amp;rdquo; color = &amp;ldquo;#212121&amp;rdquo; link1 = &amp;ldquo;https://www.linkedin.com/in/haema-nilakanta-a7021b20/&amp;quot; link2 = &amp;ldquo;&amp;rdquo; +++</description>
     </item>
     
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery2s on noRth 2020 Conference</title>
-    <link>/gallery2/</link>
+    <link>https://rnorthconference.github.io/gallery2/</link>
     <description>Recent content in Gallery2s on noRth 2020 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/gallery2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rnorthconference.github.io/gallery2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Institute for Research in Statistical Applications</title>
-      <link>/gallery2/1_irsa/</link>
+      <link>https://rnorthconference.github.io/gallery2/1_irsa/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/gallery2/1_irsa/</guid>
+      <guid>https://rnorthconference.github.io/gallery2/1_irsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R-Ladies Twin Cities</title>
-      <link>/gallery2/3_rladies/</link>
+      <link>https://rnorthconference.github.io/gallery2/3_rladies/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/gallery2/3_rladies/</guid>
+      <guid>https://rnorthconference.github.io/gallery2/3_rladies/</guid>
       <description></description>
     </item>
     

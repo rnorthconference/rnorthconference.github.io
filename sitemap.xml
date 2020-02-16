@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://rnorthconference.github.io/gallery2/1_ldietz/</loc>
+      <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://rnorthconference.github.io/gallery2/2_cknudson/</loc>
-      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-02T00:00:00+00:00</lastmod>
     </url>
   
     <url>
       <loc>https://rnorthconference.github.io/gallery2/3_kky/</loc>
-      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://rnorthconference.github.io/gallery2/1_ldietz/</loc>
       <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     </url>
   
@@ -29,11 +29,6 @@
   
     <url>
       <loc>https://rnorthconference.github.io/gallery3/1_irsa/</loc>
-      <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://rnorthconference.github.io/gallery3/3_rladies/</loc>
       <lastmod>2019-06-12T00:00:00+00:00</lastmod>
     </url>
   
@@ -59,7 +54,7 @@
   
     <url>
       <loc>https://rnorthconference.github.io/gallery2/</loc>
-      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -71,7 +66,7 @@
   
     <url>
       <loc>https://rnorthconference.github.io/</loc>
-      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   

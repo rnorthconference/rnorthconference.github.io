@@ -6,10 +6,28 @@
     <description>Recent content in Gallery2s on noRth 2020 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/gallery2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Christina Knudson</title>
+      <link>https://rnorthconference.github.io/gallery2/2_cknudson/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery2/2_cknudson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lindsey Dietz</title>
+      <link>https://rnorthconference.github.io/gallery2/1_ldietz/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery2/1_ldietz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Institute for Research in Statistical Applications</title>

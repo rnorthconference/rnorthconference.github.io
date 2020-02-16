@@ -1,7 +1,7 @@
 +++ 
 date = "2020-01-15" 
 title = "Alyssa Toay" 
-position = "Senior Data Scientist" 
+position = "Sr. Data Scientist" 
 company = "General Mills" 
 image = "atoay.jpeg" 
 alt = "Alyssa Toay" 

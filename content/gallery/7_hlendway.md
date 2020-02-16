@@ -8,5 +8,5 @@ alt = "Heather Lendway"
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/heatherlendway/" 
 link2 = ""
-twitter = ""
+twitter = "https://twitter.com/heatherlendway"
 +++

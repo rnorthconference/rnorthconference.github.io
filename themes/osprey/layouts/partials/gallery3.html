@@ -1,15 +1,10 @@
-<section class="gallery" id="organizers">
+<section class="gallery" id="work">
       <div class="row center-xs">
-      <div class="col-xs-12"><h1>Conference Organizers</h1></div></div>
-      noRth is a collaboration between the following groups:
-
-* <a href="https://www.meetup.com/RLadiesTC/" target="_blank"> R-Ladies Twin Cities</a> 
-* <a href="https://www.meetup.com/twincitiesrug/" target="_blank"> Twin Cities R User Group</a> 
-* <a href="http://irsa.stat.umn.edu/" target="_blank"> Institute for Research and Statistical Applications</a>
+      <div class="col-xs-12"><h1>Sponsors</h1></div></div>
     <div class="row">
 
-        {{ $galleryTotal := len (where .Site.RegularPages "Section" "organizers") }}
-        {{ $galleryReverse := (where .Site.RegularPages.Reverse "Section" "organizers") }}
+        {{ $galleryTotal := len (where .Site.RegularPages "Section" "gallery3") }}
+        {{ $galleryReverse := (where .Site.RegularPages.ByDate.Reverse "Section" "gallery3") }}
 
         <!-- Where gallery is an odd total -->
         {{ if not (modBool $galleryTotal 2) }}
@@ -20,9 +15,8 @@
                         <img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
                         <div class="row middle-xs center-xs overlay">
                             <div class="col-xs-12">
- <h2>{{ .Params.title }} <br>
-                                {{ .Params.position }}, {{ .Params.company }}</h2>                                 <div class="row middle-xs center-xs">
-                                    {{ if .Params.link1 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link1 }}">LinkedIn</a></h4></div>{{ end }}
+ <h2>{{ .Params.title }} </h2>                                 <div class="row middle-xs center-xs">
+                                    {{ if .Params.link1 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link1 }}">Website</a></h4></div>{{ end }}
                                     {{ if .Params.link2 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link2 }}">Personal</a></h4></div>{{ end }}                                </div>
                             </div>
                         </div>
@@ -36,10 +30,9 @@
                         <img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
                         <div class="row middle-xs center-xs overlay">
                             <div class="col-xs-12">
- <h2>{{ .Params.title }}<br>
-                                {{ .Params.position }}, {{ .Params.company }}</h2>                                 <div class="row middle-xs center-xs">
+ <h2>{{ .Params.title }}</h2>                                 <div class="row middle-xs center-xs">
 
-                                    {{ if .Params.link1 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link1 }}">LinkedIn</a></h4></div>{{ end }}
+                                    {{ if .Params.link1 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link1 }}">Website</a></h4></div>{{ end }}
                                     {{ if .Params.link2 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link2 }}">Personal</a></h4></div>{{ end }}
                                 </div>
                             </div>
@@ -61,9 +54,8 @@
                         <img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
                         <div class="row middle-xs center-xs overlay">
                             <div class="col-xs-12">
-                                <h2>{{ .Params.title }}<br>
-                                {{ .Params.position }}, {{ .Params.company }}</h2>                                <div class="row middle-xs center-xs">
-                                    {{ if .Params.link1 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link1 }}">LinkedIn</a></h4></div>{{ end }}
+                                <h2>{{ .Params.title }}</h2>                                <div class="row middle-xs center-xs">
+                                    {{ if .Params.link1 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link1 }}">Website</a></h4></div>{{ end }}
                                     {{ if .Params.link2 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link2 }}">Personal</a></h4></div>{{ end }}                                </div>
                             </div>
                         </div>
@@ -80,16 +72,15 @@
                 {{ if gt $galleryTotal 1 }} col-md-6
                     {{ if gt $galleryTotal 7 }}
                         {{ if modBool $galleryTotal 4 }} col-lg-3
-                        {{ else }} col-lg-4
+                        {{ else }} col-lg-3
                         {{ end }}
                     {{ end }}
                 {{ end }}" onclick {{ if .Params.color }}style="background-color:{{ .Params.color }}"{{ end }}>
                     <img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
                     <div class="row middle-xs center-xs overlay">
                         <div class="col-xs-12">
- <h2>{{ .Params.title }}<br>
-                                 {{ .Params.position }}, {{ .Params.company }}</h2>                                 <div class="row middle-xs center-xs">
-                                    {{ if .Params.link1 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link1 }}">LinkedIn</a></h4></div>{{ end }}
+ <h2>{{ .Params.title }}</h2>                                 <div class="row middle-xs center-xs">
+                                    {{ if .Params.link1 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link1 }}">Website</a></h4></div>{{ end }}
                                     {{ if .Params.link2 }}<div class="col-xs-3 col-md-4"><h4><a href="{{ .Params.link2 }}">Personal</a></h4></div>{{ end }}                            </div>
                         </div>
                     </div>

@@ -8,8 +8,18 @@
     </url>
   
     <url>
+      <loc>https://rnorthconference.github.io/gallery2/3_kky/</loc>
+      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://rnorthconference.github.io/gallery2/1_ldietz/</loc>
       <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://rnorthconference.github.io/gallery2/5_llendway/</loc>
+      <lastmod>2020-01-29T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -18,12 +28,12 @@
     </url>
   
     <url>
-      <loc>https://rnorthconference.github.io/gallery2/1_irsa/</loc>
+      <loc>https://rnorthconference.github.io/gallery3/1_irsa/</loc>
       <lastmod>2019-06-12T00:00:00+00:00</lastmod>
     </url>
   
     <url>
-      <loc>https://rnorthconference.github.io/gallery2/3_rladies/</loc>
+      <loc>https://rnorthconference.github.io/gallery3/3_rladies/</loc>
       <lastmod>2019-06-12T00:00:00+00:00</lastmod>
     </url>
   
@@ -50,6 +60,12 @@
     <url>
       <loc>https://rnorthconference.github.io/gallery2/</loc>
       <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+      <loc>https://rnorthconference.github.io/gallery3/</loc>
+      <lastmod>2019-06-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   

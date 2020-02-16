@@ -6,26 +6,36 @@
     <description>Recent content in Galleries on noRth 2020 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://rnorthconference.github.io/gallery/1_hnilakanta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Carson Sievert</title>
+      <link>https://rnorthconference.github.io/gallery/2_csievert/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/1_hnilakanta/</guid>
-      <description>+++ date = &amp;ldquo;2020-01-15&amp;rdquo; title = &amp;ldquo;Haema Nilakanta&amp;rdquo; position = &amp;ldquo;Lead AI Scientist&amp;rdquo; company = &amp;ldquo;Target&amp;rdquo; image = &amp;ldquo;hnilakanta.jpg&amp;rdquo; alt = &amp;ldquo;Haema Nilakanta&amp;rdquo; color = &amp;ldquo;#212121&amp;rdquo; link1 = &amp;ldquo;https://www.linkedin.com/in/haema-nilakanta-a7021b20/&amp;quot; link2 = &amp;ldquo;&amp;rdquo; +++</description>
+      <guid>https://rnorthconference.github.io/gallery/2_csievert/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://rnorthconference.github.io/gallery/2_eledell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Erin LeDell</title>
+      <link>https://rnorthconference.github.io/gallery/1_eledell/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/2_eledell/</guid>
-      <description>+++ date = &amp;ldquo;2020-01-15&amp;rdquo; title = &amp;ldquo;Erin LeDell&amp;rdquo; position = &amp;ldquo;Chief Machine Learning Scientist&amp;rdquo; company = &amp;ldquo;H2O.ai&amp;rdquo; image = &amp;ldquo;eledell.jpeg&amp;rdquo; alt = &amp;ldquo;Erin LeDell&amp;rdquo; color = &amp;ldquo;#212121&amp;rdquo; link1 = &amp;ldquo;https://www.linkedin.com/in/erin-ledell/&amp;quot; link2 = &amp;ldquo;&amp;rdquo; +++</description>
+      <guid>https://rnorthconference.github.io/gallery/1_eledell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haema Nilakanta</title>
+      <link>https://rnorthconference.github.io/gallery/4_hnilakanta/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery/4_hnilakanta/</guid>
+      <description></description>
     </item>
     
   </channel>

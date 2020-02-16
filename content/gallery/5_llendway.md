@@ -1,5 +1,5 @@
 +++ 
-date = "2020-01-15" 
+date = "2020-01-29" 
 title = "Lisa Lendway" 
 position = "Visiting Asst. Professor" 
 company = "Macalester College" 

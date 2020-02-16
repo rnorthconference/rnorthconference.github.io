@@ -1,5 +1,5 @@
 +++ 
-date = "2020-01-15" 
+date = "2020-01-25" 
 title = "Brad Weiner" 
 position = "Sr. Director of Data Science" 
 company = "Capture Higher Ed" 

@@ -1,5 +1,5 @@
 +++ 
-date = "2020-01-15" 
+date = "2020-01-31" 
 title = "Carson Sievert" 
 position = "Software Engineer" 
 company = "RStudio" 

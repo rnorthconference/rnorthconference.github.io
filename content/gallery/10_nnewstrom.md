@@ -1,5 +1,5 @@
 +++ 
-date = "2020-01-23" 
+date = "2020-01-26" 
 title = "Nicholas Newstrom" 
 position = "Postdoctoral Fellow" 
 company = "University of Minnesota-Twin Cities" 

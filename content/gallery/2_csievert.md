@@ -7,6 +7,6 @@ image = "csievert.jpg"
 alt = "Carson Sievert" 
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/carsonsievert/" 
-link2 = "https://js4shiny.com/authors/carson/"
+link2 = "https://cpsievert.me"
 twitter = "https://twitter.com/cpsievert"
 +++

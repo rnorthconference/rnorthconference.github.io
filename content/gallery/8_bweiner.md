@@ -7,6 +7,6 @@ image = "bweiner.jpeg"
 alt = "Brad Weiner" 
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/bradweinerprofile/" 
-link2 = ""
+link2 = "https://bradweiner.info/"
 twitter = "https://twitter.com/brad_weiner"
 +++

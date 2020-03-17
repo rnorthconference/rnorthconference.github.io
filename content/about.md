@@ -4,7 +4,8 @@ date = "2020-01-27"
 draft = false
 +++
 
-(PANDEMIC UPDATE 3-17-2020) We are carefully monitoring the situation and will provide a decision with regard to the conference by late April 2020. No registration will be done prior to that date. Thanks for your patience. Stay safe and do what you can to flatten the curve!
+PANDEMIC UPDATE (3-17-2020) We are carefully monitoring the situation and will provide a decision with regard to the conference by late April 2020. No registration will be done prior to that date. Thanks for your patience. Stay safe and do what you can to flatten the curve!
+---------------------------------------------------------------------
 
 Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We'd love for you to join us at noRth 2020! 
 

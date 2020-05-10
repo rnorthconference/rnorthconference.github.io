@@ -22,7 +22,7 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
     <tr>
     <td class="first"> 9:10 - 9:50 am </td>
-    <td> Plenary 1 - Amelia McNamara </td>
+    <td> Amelia McNamara </td>
   </tr>
   <tr>
     <td class="firstbreak"> 9:50 - 10:00 am </td>
@@ -30,11 +30,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
   <tr>
     <td class="first"> 10:00 - 10:30 am </td>
-    <td> Breakout - Lisa Lendway </td>
+    <td> Lisa Lendway </td>
   </tr>
   <tr>
     <td class="first"> 10:35 - 11:05 am </td>
-    <td> Breakout - Haema Nilakanta </td>
+    <td> Haema Nilakanta </td>
   </tr>
     <tr>
     <td class="firstbreak"> 11:05 - 11:15 am </td>
@@ -42,11 +42,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
     <tr>
     <td class="first"> 11:15 - 11:45 am </td>
-    <td> Breakout - Eric Lind </td>
+    <td> Eric Lind </td>
   </tr>
       <tr>
     <td class="first"> 11:50 - 12:20 pm </td>
-    <td> Breakout - Erin LeDell </td>
+    <td> Erin LeDell </td>
   </tr>
   <tr>
     <td class="firstbreak"> 12:20 - 12:30 pm </td>
@@ -63,7 +63,7 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
     <tr>
     <td class="first"> 9:10 - 9:50 am </td>
-    <td> Plenary 1 - Carson Sievert </td>
+    <td> Styling shiny and rmarkdown with Sass and Bootstrap 4 (Carson Sievert) </td>
   </tr>
   <tr>
     <td class="firstbreak"> 9:50 - 10:00 am </td>
@@ -71,11 +71,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
   <tr>
     <td class="first"> 10:00 - 10:30 am </td>
-    <td> Breakout - Alyssa Toay </td>
+    <td> Deploying End-to-End Data Science Production Workflows in R (Alyssa Toay) </td>
   </tr>
   <tr>
     <td class="first"> 10:35 - 11:05 am </td>
-    <td> Breakout - Connor Jo Lewis and Heather Lendway </td>
+    <td> Connor Jo Lewis and Heather Lendway </td>
   </tr>
     <tr>
     <td class="firstbreak"> 11:05 - 11:15 am </td>
@@ -83,11 +83,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
     <tr>
     <td class="first"> 11:15 - 11:45 am </td>
-    <td> Breakout - Kim Eng Ky </td>
+    <td> Kim Eng Ky </td>
   </tr>
       <tr>
     <td class="first"> 11:50 - 12:20 pm </td>
-    <td> Breakout - Nicholas Newstrom </td>
+    <td> Nicholas Newstrom </td>
   </tr>
   <tr>
     <td class="firstbreak"> 12:20 - 12:30 pm </td>

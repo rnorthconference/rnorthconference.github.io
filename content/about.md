@@ -83,11 +83,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
     <tr>
     <td class="first"> 11:15 - 11:45 am </td>
-    <td> Breakout - Nicholas Newstrom </td>
+    <td> Breakout - Kim Eng Ky </td>
   </tr>
       <tr>
     <td class="first"> 11:50 - 12:20 pm </td>
-    <td> Breakout - TBD </td>
+    <td> Breakout - Nicholas Newstrom </td>
   </tr>
   <tr>
     <td class="firstbreak"> 12:20 - 12:30 pm </td>

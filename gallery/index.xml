@@ -6,7 +6,7 @@
     <description>Recent content in Galleries on noRth 2020 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Erin LeDell</title>
       <link>https://rnorthconference.github.io/gallery/1_eledell/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/gallery/1_eledell/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Carson Sievert</title>
       <link>https://rnorthconference.github.io/gallery/2_csievert/</link>
-      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/gallery/2_csievert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kim Eng Ky</title>
+      <link>https://rnorthconference.github.io/gallery/3_kky/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery/3_kky/</guid>
       <description></description>
     </item>
     

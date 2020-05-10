@@ -64,11 +64,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <tr>
     <td class="first"> 9:10 - 9:50 am </td>
     <td> Styling shiny and rmarkdown with Sass and Bootstrap 4 (Carson Sievert) </td>
-    <td> [<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html"> rmarkdown</a>, <a href= "https://cran.r-project.org/web/packages/shiny/index.html"> shiny</a>, 
-    <a href= "https://rstudio.github.io/bootstraplib/"> bootstraplib </a>, 
-    <a href= "https://cran.r-project.org/web/packages/flexdashboard/index.html">flexdashboard</a>,
+    <td> [<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> rmarkdown</a>, <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>, 
+    <a href= "https://rstudio.github.io/bootstraplib/" target="_blank"> bootstraplib </a>, 
+    <a href= "https://cran.r-project.org/web/packages/flexdashboard/index.html" target="_blank">flexdashboard</a>,
     <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> plotly</a>, 
-    <a href= "https://cran.r-project.org/web/packages/DT/index.html">DT</a>]</td>
+    <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank">DT</a>]</td>
   </tr>
   <tr>
     <td class="firstbreak"> 9:50 - 10:00 am </td>
@@ -77,7 +77,8 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   <tr>
     <td class="first"> 10:00 - 10:30 am </td>
     <td> Deploying End-to-End Data Science Production Workflows in R (Alyssa Toay) </td>
-    <td> [<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html"> rmarkdown</a>, <a href="https://cran.r-project.org/web/packages/plumber/index.html"> plumber</a>, <a href= "https://cran.r-project.org/web/packages/pins/index.html"> pins</a>, <a href= "https://cran.r-project.org/web/packages/shiny/index.html"> shiny</a>] </td>
+    <td> [<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> rmarkdown</a>, <a href="https://cran.r-project.org/web/packages/plumber/index.html" target="_blank"> plumber</a>, <a href= "https://cran.r-project.org/web/packages/pins/index.html" target="_blank"> pins</a>, 
+    <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>] </td>
   </tr>
   <tr>
     <td class="first"> 10:35 - 11:05 am </td>

@@ -1,6 +1,6 @@
 +++
 date = "2019-06-12"
-title = "Institute for Research in Statistical Applications"
+title = "Institute for Research in Statistics and its Applications"
 image = "irsa.jpg"
 alt = "IRSA"
 color = "#212121"

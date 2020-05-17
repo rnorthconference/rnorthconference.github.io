@@ -39,7 +39,7 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
   <tr>
     <td class="first"> 10:35 - 11:05 am <br> Haema Nilakanta </td>
-    <td> Title TBD </td>
+    <td> Being bilingual - coding in both R and python </td>
             <td> 
         <ul>
         <a href= "https://cran.r-project.org/web/packages/reticulate/index.html" target="_blank">reticulate</a>

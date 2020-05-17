@@ -142,7 +142,13 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
       <tr>
     <td class="first"> 11:50 - 12:20 pm <br> Nicholas Newstrom </td>
-    <td> Title TBD </td>
+    <td> R statistics: A social scientist’s journey </td>
+        <td> 
+        <ul>
+        <a href= "https://cran.r-project.org/web/packages/epiDisplay/index.html" target="_blank">epiDisplay</a>,
+                <a href= "https://cran.r-project.org/web/packages/lavaan/index.html" target="_blank">lavaan</a>
+              </ul>
+              </td>
   </tr>
   <tr>
     <td class="firstbreak"> 12:20 - 12:30 pm </td>

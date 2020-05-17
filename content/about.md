@@ -52,6 +52,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td class="firstbreak"> 12:20 - 12:30 pm </td>
     <td> Closing </td>
   </tr>
+    </tr>
+    <tr>
+    <td class="firstbreak"> 12:30 - 1:00 pm </td>
+    <td> (Optional) "Birds of a Feather" Networking Session - connect with attendees of similar backgrounds, interests, and aspirations </td>
+  </tr>
 </table>
 
 ## Wednesday, July 15, 2020
@@ -103,4 +108,9 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td class="firstbreak"> 12:20 - 12:30 pm </td>
     <td> Closing </td>
   </tr>
+    <tr>
+    <td class="firstbreak"> 12:30 - 1:00 pm </td>
+    <td> (Optional) "Birds of a Feather" Networking Session - connect with attendees of similar backgrounds, interests, and aspirations </td>
+  </tr>
+
 </table>

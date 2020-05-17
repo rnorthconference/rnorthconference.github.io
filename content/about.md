@@ -6,7 +6,7 @@ draft = false
 
 Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We'd love for you to join us VIRTUALLY at noRth 2020! Registration coming soon.
 
-The conference will conist of two morning sessions of seminars (July 14 - 15). 
+The conference will consist of two morning sessions of seminars (July 14 - 15). 
 
 While you wait, check out the
 <a href="https://www.youtube.com/playlist?list=PL7aOYMht_9VXse6izexC1sUBRUz_ZuRWV">talks</a>

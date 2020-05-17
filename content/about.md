@@ -15,6 +15,7 @@ and <a href="https://github.com/rnorthconference/2019Talks">materials</a> from n
 The tentative 2020 schedule is below (i.e. subject to changes).
 
 ## Tuesday, July 14, 2020
+<div style="overflow-x:auto;">
 <table class="table">
   <tr>
     <td class="first"> 9:00 - 9:10 am </td>
@@ -58,9 +59,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> (Optional) "Birds of a Feather" Networking Session - connect with attendees of similar backgrounds, interests, and aspirations </td>
   </tr>
 </table>
+</div>
 
 ## Wednesday, July 15, 2020
 
+<div style="overflow-x:auto;">
 <table class="table">
   <tr>
     <td class="first"> 9:00 - 9:10 am </td>
@@ -112,5 +115,5 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td class="firstbreak"> 12:30 - 1:00 pm </td>
     <td> (Optional) "Birds of a Feather" Networking Session - connect with attendees of similar backgrounds, interests, and aspirations </td>
   </tr>
-
 </table>
+</div>

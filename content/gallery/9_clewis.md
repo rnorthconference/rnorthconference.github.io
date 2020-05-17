@@ -1,6 +1,6 @@
 +++ 
 date = "2020-01-24" 
-title = "Connor Jo Lewis" 
+title = "Connor Jo Lewis, MS" 
 position = "Data Scientist" 
 company = "C.H. Robinson" 
 image = "clewis.jpeg" 

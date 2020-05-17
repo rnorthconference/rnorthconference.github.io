@@ -1,6 +1,6 @@
 +++ 
 date = "2020-01-30" 
-title = "Haema Nilakanta" 
+title = "Haema Nilakanta, PhD" 
 position = "Lead AI Scientist" 
 company = "Target" 
 image = "hnilakanta.jpg" 

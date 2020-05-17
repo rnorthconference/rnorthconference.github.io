@@ -22,32 +22,52 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Welcome </td>
   </tr>
     <tr>
-    <td class="first"> 9:10 - 9:50 am </td>
-    <td> Amelia McNamara </td>
+    <td class="first"> 9:10 - 9:50 am <br> Amelia McNamara </td>
+    <td> Title TBD </td>
   </tr>
   <tr>
     <td class="firstbreak"> 9:50 - 10:00 am </td>
     <td> Break </td>
   </tr>
   <tr>
-    <td class="first"> 10:00 - 10:30 am </td>
-    <td> Lisa Lendway </td>
+    <td class="first"> 10:00 - 10:30 am <br> Lisa Lendway </td>
+    <td> Title TBD </td>
+            <td> 
+        <ul>
+        <a href= "https://cran.r-project.org/web/packages/tidymodels/index.html" target="_blank">tidymodels</a>
+              </ul>
   </tr>
   <tr>
-    <td class="first"> 10:35 - 11:05 am </td>
-    <td> Haema Nilakanta </td>
+    <td class="first"> 10:35 - 11:05 am <br> Haema Nilakanta </td>
+    <td> Title TBD </td>
+            <td> 
+        <ul>
+        <a href= "https://cran.r-project.org/web/packages/reticulate/index.html" target="_blank">reticulate</a>
+              </ul>
+              </td>
   </tr>
     <tr>
     <td class="firstbreak"> 11:05 - 11:15 am </td>
     <td> Break </td>
   </tr>
     <tr>
-    <td class="first"> 11:15 - 11:45 am </td>
-    <td> Eric Lind </td>
+    <td class="first"> 11:15 - 11:45 am <br> Eric Lind </td>
+    <td> Title TBD </td>
+                <td> 
+        <ul>
+        <a href= "https://cran.r-project.org/web/packages/rstan/index.html" target="_blank">rstan</a>
+              </ul>
+              </td>
   </tr>
       <tr>
-    <td class="first"> 11:50 - 12:20 pm </td>
-    <td> Erin LeDell </td>
+    <td class="first"> 11:50 - 12:20 pm <br> Erin LeDell </td>
+    <td> Automatic Machine Learning in R </td>
+        <td> 
+        <ul>
+        <a href= "https://cran.r-project.org/web/packages/h2o/index.html" target="_blank">h2o</a>
+              </ul>
+              </td>
+
   </tr>
   <tr>
     <td class="firstbreak"> 12:20 - 12:30 pm </td>
@@ -70,42 +90,59 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Welcome </td>
   </tr>
     <tr>
-    <td class="first"> 9:10 - 9:50 am </td>
-    <td> Styling shiny and rmarkdown with Sass and Bootstrap 4 (Carson Sievert) </td>
-    <td> [<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> rmarkdown</a>, <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>, 
+    <td class="first"> 9:10 - 9:50 am <br> Carson Sievert </td>
+    <td> Styling shiny and rmarkdown with Sass and Bootstrap 4 </td>
+    <td> 
+    <ul>
+<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> rmarkdown</a>, <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>, 
     <a href= "https://rstudio.github.io/bootstraplib/" target="_blank"> bootstraplib </a>, 
     <a href= "https://cran.r-project.org/web/packages/flexdashboard/index.html" target="_blank">flexdashboard</a>,
     <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> plotly</a>, 
-    <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank">DT</a>]</td>
+    <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank">DT</a>
+        </ul>
+    </td>
   </tr>
   <tr>
     <td class="firstbreak"> 9:50 - 10:00 am </td>
     <td> Break </td>
   </tr>
   <tr>
-    <td class="first"> 10:00 - 10:30 am </td>
-    <td> Deploying End-to-End Data Science Production Workflows in R (Alyssa Toay) </td>
-    <td> [<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> rmarkdown</a>, <a href="https://cran.r-project.org/web/packages/plumber/index.html" target="_blank"> plumber</a>, <a href= "https://cran.r-project.org/web/packages/pins/index.html" target="_blank"> pins</a>, 
-    <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>] </td>
+    <td class="first"> 10:00 - 10:30 am <br> Alyssa Toay </td>
+    <td> Deploying End-to-End Data Science Production Workflows in R </td>
+    <td> 
+    <ul>
+    <a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> rmarkdown</a>, <a href="https://cran.r-project.org/web/packages/plumber/index.html" target="_blank"> plumber</a>, <a href= "https://cran.r-project.org/web/packages/pins/index.html" target="_blank"> pins</a>, 
+    <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>
+      </ul>
+</td>
   </tr>
   <tr>
-    <td class="first"> 10:35 - 11:05 am </td>
-    <td> Powerful Yet Simple Reactive Concepts in Shiny (Connor Jo Lewis and Heather Lendway) </td>
-        <td> [<a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>,
-            <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> plotly</a>,
-              <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank">DT</a> ] </td>
+    <td class="first"> 10:35 - 11:05 am <br> Heather Lendway and Connor Jo Lewis</td>
+    <td> Powerful Yet Simple Reactive Concepts in Shiny </td>
+        <td> 
+        <ul>
+        <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank">shiny</a>, 
+        <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> plotly</a>,
+        <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank"> DT</a> 
+              </ul>
+              </td>
   </tr>
     <tr>
     <td class="firstbreak"> 11:05 - 11:15 am </td>
     <td> Break </td>
   </tr>
     <tr>
-    <td class="first"> 11:15 - 11:45 am </td>
-    <td> Kim Eng Ky </td>
+    <td class="first"> 11:15 - 11:45 am <br> Kim Eng Ky </td>
+    <td> Title TBD </td>
+    <td> 
+        <ul>
+        <a href= "https://cran.r-project.org/web/packages/RSelenium/index.html" target="_blank">RSelenium</a>
+              </ul>
+              </td>
   </tr>
       <tr>
-    <td class="first"> 11:50 - 12:20 pm </td>
-    <td> Nicholas Newstrom </td>
+    <td class="first"> 11:50 - 12:20 pm <br> Nicholas Newstrom </td>
+    <td> Title TBD </td>
   </tr>
   <tr>
     <td class="firstbreak"> 12:20 - 12:30 pm </td>

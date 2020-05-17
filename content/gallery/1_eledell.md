@@ -1,6 +1,6 @@
 +++ 
 date = "2020-02-02" 
-title = "Erin LeDell" 
+title = "Erin LeDell, PhD" 
 position = "Chief Machine Learning Scientist" 
 company = "H2O.ai" 
 image = "eledell.jpeg" 

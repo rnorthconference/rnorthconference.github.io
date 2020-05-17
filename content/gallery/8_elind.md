@@ -1,6 +1,6 @@
 +++ 
 date = "2020-01-24" 
-title = "Eric Lind" 
+title = "Eric Lind, PhD" 
 position = "Research & Analytics Manager" 
 company = "Metro Transit" 
 image = "ericlind.jpeg" 

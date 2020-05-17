@@ -1,6 +1,6 @@
 +++ 
 date = "2020-02-01" 
-title = "Carson Sievert" 
+title = "Carson Sievert, PhD" 
 position = "Software Engineer" 
 company = "RStudio" 
 image = "csievert.jpg" 

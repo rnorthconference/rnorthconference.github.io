@@ -1,6 +1,6 @@
 +++ 
 date = "2020-01-27" 
-title = "Alyssa Toay" 
+title = "Alyssa Toay, MS" 
 position = "Lead Data Scientist" 
 company = "General Mills" 
 image = "atoay.jpeg" 

@@ -52,9 +52,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
     <tr>
     <td class="first"> 11:15 - 11:45 am <br> Eric Lind </td>
-    <td> Title TBD </td>
-                <td> 
+    <td> Probabilistic answers to data science questions: using Bayesian hierarchical modeling in analysis of public transit </td>
+     <td> 
         <ul>
+        <a href= "https://github.com/rmcelreath/rethinking" target="_blank">rethinking</a>,
+        <a href= "https://cran.r-project.org/web/packages/rstanarm/index.html" target="_blank">rstanarm</a>,
         <a href= "https://cran.r-project.org/web/packages/rstan/index.html" target="_blank">rstan</a>
               </ul>
               </td>

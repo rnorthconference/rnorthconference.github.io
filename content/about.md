@@ -31,7 +31,7 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
   <tr>
     <td class="first"> 10:00 - 10:30 am <br> Lisa Lendway </td>
-    <td> Title TBD </td>
+    <td> Reproducible Machine Learning with tidymodels </td>
             <td> 
         <ul>
         <a href= "https://cran.r-project.org/web/packages/tidymodels/index.html" target="_blank">tidymodels</a>
@@ -135,10 +135,12 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
     <tr>
     <td class="first"> 11:15 - 11:45 am <br> Kim Eng Ky </td>
-    <td> Title TBD </td>
+    <td> Web Scraping with RSelenium </td>
     <td> 
         <ul>
-        <a href= "https://cran.r-project.org/web/packages/RSelenium/index.html" target="_blank">RSelenium</a>
+        <a href= "https://cran.r-project.org/web/packages/RSelenium/index.html" target="_blank">RSelenium</a>,
+                <a href= "https://cran.r-project.org/web/packages/rvest/index.html" target="_blank">rvest</a>
+
               </ul>
               </td>
   </tr>

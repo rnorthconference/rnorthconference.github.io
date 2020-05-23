@@ -61,6 +61,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#contact"
   weight = 3
 [[menu.main]]
-  name = "CoC"
+  name = "Startup/CoC"
   url  = "/#blog"
   weight = 4

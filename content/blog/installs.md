@@ -1,14 +1,14 @@
 +++
-title = "Startup Guide"
+title = "Conference Startup Guide"
 description = ""
 tags = [
-    "conduct",
-    "coc",
+    "startup",
+    "packages",
     ]
 date = "2018-12-27"
 categories = [
-    "faqs",
-    "conference",
+    "startup",
+    "packages",
 ]
 +++
 

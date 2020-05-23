@@ -71,7 +71,7 @@ The tentative 2020 schedule is below (i.e. subject to changes).
         install.packages(c(
         <a href= "https://cran.r-project.org/web/packages/rstanarm/index.html" target="_blank">'rstanarm'</a>,
         <a href= "https://cran.r-project.org/web/packages/rstan/index.html" target="_blank">'rstan'</a>));
-        devtools::install_github('rmcelreath/<a href= "https://github.com/rmcelreath/rethinking" target="_blank">rethinking'</a>')
+        devtools::install_github('rmcelreath/<a href= "https://github.com/rmcelreath/rethinking" target="_blank">rethinking'</a>)
               </ul>
               </td>
   </tr>
@@ -116,7 +116,7 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <a href= "https://cran.r-project.org/web/packages/flexdashboard/index.html" target="_blank">'flexdashboard'</a>,
     <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> 'plotly'</a>, 
     <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank">'DT'</a>));
-    devtools::install_github('rstudio/<a href= "https://rstudio.github.io/bootstraplib/" target="_blank">bootstraplib' </a>')
+    devtools::install_github('rstudio/<a href= "https://rstudio.github.io/bootstraplib/" target="_blank">bootstraplib'</a>)
         </ul>
     </td>
   </tr>

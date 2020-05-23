@@ -31,9 +31,11 @@ install.packages( c('devtools', 'purrr', 'rvest',
                     'pins', 'flexdashboard', 'plotly', 'DT'))
 
 install.packages( 'tidyverse' )
-install.packages( 'tidymodels' ) #Say yes to any package requiring compilation
+install.packages( 'tidymodels' ) 
+#Say yes to any package requiring compilation if asked
 
 #Rethinking and bootstraplib are not yet on CRAN
 devtools::install_github('rmcelreath/rethinking')
-devtools::install_github('rstudio/bootstraplib') #Choose 1 to update all packages
+devtools::install_github('rstudio/bootstraplib') 
+#Choose 1 to update all packages if asked
 ```

@@ -25,27 +25,25 @@ All event participants are expected to behave in accordance with professional st
 
 Harassment will not be tolerated in any form, including but not limited to:
 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held.
-* Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
-* Deliberate misgendering or use of 'dead' or rejected names.
-* Gratuitous or off-topic sexual images or behaviour in spaces where they're not
+ - Offensive comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held.
+ - Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
+ - Deliberate misgendering or use of 'dead' or rejected names.
+ - Gratuitous or off-topic sexual images or behaviour in spaces where they're not
 appropriate.
-* Physical contact and simulated physical contact (eg, textual descriptions like
+ - Physical contact and simulated physical contact (eg, textual descriptions like
 "*hug*" or "*backrub*") without consent or after a request to stop.
-* Threats of violence.
-* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
-* Deliberate intimidation.
-* Stalking or following.
-* Harassing photography or recording, including logging online activity for
-harassment purposes.
-* Inappropriate staring.
-* Sustained disruption of discussion.
-* Unwelcome sexual attention.
-* Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.
-* Continued one-on-one communication after requests to cease.
-* Deliberate "outing" of any aspect of a person's identity without their consent
-except as necessary to protect vulnerable people from intentional abuse.
-* Publication of non-harassing private communication.  
+ - Threats of violence.
+ - Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
+ - Deliberate intimidation.
+ - Stalking or following.
+ - Harassing photography or recording, including logging online activity for harassment purposes.
+ - Inappropriate staring.
+ - Sustained disruption of discussion.
+ - Unwelcome sexual attention.
+ - Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.
+ - Continued one-on-one communication after requests to cease.
+ - Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
+ - Publication of non-harassing private communication.  
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
@@ -58,10 +56,11 @@ In order to protect volunteers from abuse and burnout, we reserve the right to r
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we've received harassment complaints, or privately warn third parties about them if we believe that doing so will increase the safety of noRth participants or the general public. We will not name harassment victims without their affirmative consent.
 
 Conference staff will also provide support to victims, including, but not limited to:
-- Providing an escort
-- Contacting hotel/venue security or local law enforcement
-- Briefing key event staff for response/victim assistance
-- And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.
+
+ - Providing an escort
+ - Contacting hotel/venue security or local law enforcement
+ - Briefing key event staff for response/victim assistance
+ - And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.
 
 ## Consequences
 

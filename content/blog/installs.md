@@ -18,7 +18,7 @@ categories = [
   
 ## Install RStudio
   - Navigate to https://rstudio.com/products/rstudio/download/
-   - Choose the download for your operating system
+  - Choose the download for your operating system
 
 ## Install the following R packages in your R instance
 ```{r eval=FALSE}

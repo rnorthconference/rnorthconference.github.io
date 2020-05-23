@@ -26,17 +26,12 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Scraping, iterating, purring </td>
      <td> 
         <ul>
-        <a href= "https://cran.r-project.org/web/packages/purrr/index.html" target="_blank">purrr</a>,
-              </ul>       
-                  <ul>
-        <a href= "https://cran.r-project.org/web/packages/rvest/index.html" target="_blank">rvest</a>,
-              </ul> 
-                      <ul>
-        <a href= "https://cran.r-project.org/web/packages/RSelenium/index.html" target="_blank">RSelenium</a>,
-              </ul> 
-                      <ul>
-        <a href= "https://cran.r-project.org/web/packages/dplyr/index.html" target="_blank">dplyr</a>
-              </ul> 
+        install.packages(
+        <a href= "https://cran.r-project.org/web/packages/purrr/index.html" target="_blank">'purrr'</a>,
+        <a href= "https://cran.r-project.org/web/packages/rvest/index.html" target="_blank">'rvest'</a>,
+        <a href= "https://cran.r-project.org/web/packages/RSelenium/index.html" target="_blank">'RSelenium'</a>,
+        <a href= "https://cran.r-project.org/web/packages/dplyr/index.html" target="_blank">'dplyr'</a>
+              )</ul> 
               </td>
   </tr>
   <tr>
@@ -48,8 +43,9 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Reproducible Machine Learning with tidymodels </td>
             <td> 
         <ul>
-        <a href= "https://cran.r-project.org/web/packages/tidymodels/index.html" target="_blank">tidymodels</a>
-              </ul>       
+        install.packages(
+        <a href= "https://cran.r-project.org/web/packages/tidymodels/index.html" target="_blank">'tidymodels'</a>
+              )</ul>       
               </td>
 
   </tr>
@@ -58,7 +54,8 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Being bilingual - coding in both R and python </td>
             <td> 
         <ul>
-        <a href= "https://cran.r-project.org/web/packages/reticulate/index.html" target="_blank">reticulate</a>
+        install.packages(
+        <a href= "https://cran.r-project.org/web/packages/reticulate/index.html" target="_blank">'reticulate'</a>)
               </ul>
               </td>
   </tr>
@@ -70,10 +67,11 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td class="first"> 11:15 - 11:45 am <br> Eric Lind </td>
     <td> Probabilistic answers to data science questions: using Bayesian hierarchical modeling in analysis of public transit </td>
      <td> 
-        <ul>
-        <a href= "https://github.com/rmcelreath/rethinking" target="_blank">rethinking</a>,
-        <a href= "https://cran.r-project.org/web/packages/rstanarm/index.html" target="_blank">rstanarm</a>,
-        <a href= "https://cran.r-project.org/web/packages/rstan/index.html" target="_blank">rstan</a>
+        <ul>      
+        install.packages(
+        <a href= "https://github.com/rmcelreath/rethinking" target="_blank">'rethinking'</a>,
+        <a href= "https://cran.r-project.org/web/packages/rstanarm/index.html" target="_blank">'rstanarm'</a>,
+        <a href= "https://cran.r-project.org/web/packages/rstan/index.html" target="_blank">'rstan'</a>)
               </ul>
               </td>
   </tr>
@@ -82,7 +80,8 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Automatic Machine Learning in R </td>
         <td> 
         <ul>
-        <a href= "https://cran.r-project.org/web/packages/h2o/index.html" target="_blank">h2o</a>
+        install.packages(
+        <a href= "https://cran.r-project.org/web/packages/h2o/index.html" target="_blank">'h2o'</a>)
               </ul>
               </td>
 
@@ -112,11 +111,12 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Styling shiny and rmarkdown with Sass and Bootstrap 4 </td>
     <td> 
     <ul>
-<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> rmarkdown</a>, <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>, 
-    <a href= "https://rstudio.github.io/bootstraplib/" target="_blank"> bootstraplib </a>, 
-    <a href= "https://cran.r-project.org/web/packages/flexdashboard/index.html" target="_blank">flexdashboard</a>,
-    <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> plotly</a>, 
-    <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank">DT</a>
+    install.packages(
+<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank">'rmarkdown'</a>, <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> 'shiny'</a>, 
+    <a href= "https://rstudio.github.io/bootstraplib/" target="_blank"> 'bootstraplib' </a>, 
+    <a href= "https://cran.r-project.org/web/packages/flexdashboard/index.html" target="_blank">'flexdashboard'</a>,
+    <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> 'plotly'</a>, 
+    <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank">'DT'</a>)
         </ul>
     </td>
   </tr>
@@ -129,8 +129,9 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Deploying End-to-End Data Science Production Workflows in R </td>
     <td> 
     <ul>
-    <a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> rmarkdown</a>, <a href="https://cran.r-project.org/web/packages/plumber/index.html" target="_blank"> plumber</a>, <a href= "https://cran.r-project.org/web/packages/pins/index.html" target="_blank"> pins</a>, 
-    <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> shiny</a>
+    install.packages(
+    <a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> 'rmarkdown'</a>, <a href="https://cran.r-project.org/web/packages/plumber/index.html" target="_blank"> 'plumber'</a>, <a href= "https://cran.r-project.org/web/packages/pins/index.html" target="_blank"> 'pins'</a>, 
+    <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> 'shiny'</a>)
       </ul>
 </td>
   </tr>
@@ -139,9 +140,10 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> Powerful Yet Simple Reactive Concepts in Shiny </td>
         <td> 
         <ul>
-        <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank">shiny</a>, 
-        <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> plotly</a>,
-        <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank"> DT</a> 
+        install.packages(
+        <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank">'shiny'</a>, 
+        <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> 'plotly'</a>,
+        <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank"> 'DT'</a> )
               </ul>
               </td>
   </tr>
@@ -154,9 +156,10 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> dplyr + data.table = dtplyr? </td>
     <td> 
         <ul>
-        <a href= "https://cran.r-project.org/web/packages/dplyr/index.html" target="_blank">dplyr</a>,
-                <a href= "https://cran.r-project.org/web/packages/data.table/index.html" target="_blank">data.table</a>,
-                <a href= "https://cran.r-project.org/web/packages/dtplyr/index.html" target="_blank">dtplyr</a>
+                install.packages(
+        <a href= "https://cran.r-project.org/web/packages/dplyr/index.html" target="_blank">'dplyr'</a>,
+                <a href= "https://cran.r-project.org/web/packages/data.table/index.html" target="_blank">'data.table'</a>,
+                <a href= "https://cran.r-project.org/web/packages/dtplyr/index.html" target="_blank">'dtplyr'</a>)
 
               </ul>
               </td>
@@ -166,8 +169,10 @@ The tentative 2020 schedule is below (i.e. subject to changes).
     <td> R statistics: A social scientist’s journey </td>
         <td> 
         <ul>
-        <a href= "https://cran.r-project.org/web/packages/epiDisplay/index.html" target="_blank">epiDisplay</a>,
-                <a href= "https://cran.r-project.org/web/packages/lavaan/index.html" target="_blank">lavaan</a>
+        install.packages(
+        <a href= "https://cran.r-project.org/web/packages/epiDisplay/index.html" target="_blank">'epiDisplay'</a>,
+                <a href= "https://cran.r-project.org/web/packages/lavaan/index.html" target="_blank">'lavaan'</a>
+                )
               </ul>
               </td>
   </tr>

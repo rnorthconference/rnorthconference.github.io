@@ -5,16 +5,15 @@ tags = [
     "startup",
     "packages",
     ]
-date = "2018-12-27"
+date = "2020-05-23"
 categories = [
     "startup",
     "packages",
 ]
 +++
 
-## Install R 4.0.0
- - Navigate to https://www.r-project.org/
- - Choose a mirror: https://cran.r-project.org/mirrors.html ;for example: https://mirror.las.iastate.edu/CRAN/
+## Install R 4.0.0 or higher
+ - Navigate to a nearby CRAN mirror: https://cran.r-project.org/mirrors.html; for example: https://mirror.las.iastate.edu/CRAN/
  - Choose the download for your operating system
   
 ## Install RStudio
@@ -36,5 +35,5 @@ install.packages( 'tidymodels' ) #Say yes to any package requiring compilation
 
 #Rethinking and bootstraplib are not yet on CRAN
 devtools::install_github('rmcelreath/rethinking')
-devtools::install_github('rstudio/bootstraplib') #Update all packages
+devtools::install_github('rstudio/bootstraplib') #Choose 1 to update all packages
 ```

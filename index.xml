@@ -6,10 +6,19 @@
     <description>Recent content on noRth 2020 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conference Startup Guide</title>
+      <link>https://rnorthconference.github.io/blog/installs/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/blog/installs/</guid>
+      <description>Install R 4.0.0 or higher  Navigate to a nearby CRAN mirror: https://cran.r-project.org/mirrors.html; for example: https://mirror.las.iastate.edu/CRAN/ Choose the download for your operating system   Install RStudio  Navigate to https://rstudio.com/products/rstudio/download/  Choose the download for your operating system   Install the following R packages in your R instance install.packages( c(&#39;devtools&#39;, &#39;purrr&#39;, &#39;rvest&#39;, &#39;RSelenium&#39;, &#39;dplyr&#39;, &#39;data.table&#39;, &#39;dtplyr&#39;, &#39;epiDisplay&#39;, &#39;lavaan&#39;, &#39;reticulate&#39;, &#39;rstanarm&#39;, &#39;rstan&#39;, &#39;coda&#39;,&#39;mvtnorm&#39;,&#39;loo&#39;,&#39;dagitty&#39;, &#39;h2o&#39;, &#39;rmarkdown&#39;, &#39;shiny&#39;, &#39;plumber&#39;, &#39;pins&#39;, &#39;flexdashboard&#39;, &#39;plotly&#39;, &#39;DT&#39;)) install.</description>
+    </item>
     
     <item>
       <title>Lindsey Dietz</title>
@@ -165,15 +174,6 @@ While you wait, check out the talks and materials from noRth 2019. Join the Twin
       <guid>https://rnorthconference.github.io/blog/code-of-conduct/</guid>
       <description>While we are virtual, we are still committed to providing a harassment-free experience for participants at our event(s). noRth is a conference intended for professional networking and collaboration in the R community. We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group.
 A Code of Conduct is useful to define accepted and acceptable behaviors and to promote high standards of professional practice.</description>
-    </item>
-    
-    <item>
-      <title>Conference Startup Guide</title>
-      <link>https://rnorthconference.github.io/blog/installs/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/blog/installs/</guid>
-      <description>Install R 4.0.0  Navigate to https://www.r-project.org/ Choose a mirror: https://cran.r-project.org/mirrors.html ;for example: https://mirror.las.iastate.edu/CRAN/ Choose the download for your operating system   Install RStudio  Navigate to https://rstudio.com/products/rstudio/download/  Choose the download for your operating system   Install the following R packages in your R instance install.packages( c(&#39;devtools&#39;, &#39;purrr&#39;, &#39;rvest&#39;, &#39;RSelenium&#39;, &#39;dplyr&#39;, &#39;data.table&#39;, &#39;dtplyr&#39;, &#39;epiDisplay&#39;, &#39;lavaan&#39;, &#39;reticulate&#39;, &#39;rstanarm&#39;, &#39;rstan&#39;, &#39;coda&#39;,&#39;mvtnorm&#39;,&#39;loo&#39;,&#39;dagitty&#39;, &#39;h2o&#39;, &#39;rmarkdown&#39;, &#39;shiny&#39;, &#39;plumber&#39;, &#39;pins&#39;, &#39;flexdashboard&#39;, &#39;plotly&#39;, &#39;DT&#39;)) install.</description>
     </item>
     
     <item>

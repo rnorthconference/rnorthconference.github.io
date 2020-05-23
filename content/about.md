@@ -23,7 +23,21 @@ The tentative 2020 schedule is below (i.e. subject to changes).
   </tr>
     <tr>
     <td class="first"> 9:10 - 9:50 am <br> Amelia McNamara </td>
-    <td> Title TBD </td>
+    <td> Scraping, iterating, purring </td>
+     <td> 
+        <ul>
+        <a href= "https://cran.r-project.org/web/packages/purrr/index.html" target="_blank">purrr</a>,
+              </ul>       
+                  <ul>
+        <a href= "https://cran.r-project.org/web/packages/rvest/index.html" target="_blank">rvest</a>,
+              </ul> 
+                      <ul>
+        <a href= "https://cran.r-project.org/web/packages/RSelenium/index.html" target="_blank">RSelenium</a>,
+              </ul> 
+                      <ul>
+        <a href= "https://cran.r-project.org/web/packages/dplyr/index.html" target="_blank">dplyr</a>
+              </ul> 
+              </td>
   </tr>
   <tr>
     <td class="firstbreak"> 9:50 - 10:00 am </td>
@@ -35,7 +49,9 @@ The tentative 2020 schedule is below (i.e. subject to changes).
             <td> 
         <ul>
         <a href= "https://cran.r-project.org/web/packages/tidymodels/index.html" target="_blank">tidymodels</a>
-              </ul>
+              </ul>       
+              </td>
+
   </tr>
   <tr>
     <td class="first"> 10:35 - 11:05 am <br> Haema Nilakanta </td>

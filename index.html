@@ -792,6 +792,61 @@ and <a href="https://github.com/rnorthconference/2019Talks">materials</a> from n
         
 
 
+  <section class="about" id="blog">
+    <div class="container middle-xs">
+      <div class="row center-xs">
+        <div class="col-xs-12">
+          <h1>Startup Guide</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 middle-xs">
+          
+            
+
+<h2 id="install-r-4-0-0">Install R 4.0.0</h2>
+
+<ul>
+<li>Navigate to <a href="https://www.r-project.org/">https://www.r-project.org/</a></li>
+<li>Choose a mirror: <a href="https://cran.r-project.org/mirrors.html">https://cran.r-project.org/mirrors.html</a> ;for example: <a href="https://mirror.las.iastate.edu/CRAN/">https://mirror.las.iastate.edu/CRAN/</a></li>
+<li>Choose the download for your operating system
+<br /></li>
+</ul>
+
+<h2 id="install-rstudio">Install RStudio</h2>
+
+<ul>
+<li>Navigate to <a href="https://rstudio.com/products/rstudio/download/">https://rstudio.com/products/rstudio/download/</a>
+
+<ul>
+<li>Choose the download for your operating system</li>
+</ul></li>
+</ul>
+
+<h2 id="install-the-following-r-packages-in-your-r-instance">Install the following R packages in your R instance</h2>
+
+<pre><code class="language-r eval=FALSE">install.packages( c('devtools', 'purrr', 'rvest', 
+                    'RSelenium', 'dplyr', 'data.table', 
+                    'dtplyr', 'epiDisplay', 'lavaan',
+                    'reticulate', 'rstanarm', 'rstan',
+                    'coda','mvtnorm','loo','dagitty',
+                    'h2o', 'rmarkdown', 'shiny', 'plumber', 
+                    'pins', 'flexdashboard', 'plotly', 'DT'))
+
+install.packages( 'tidyverse' )
+install.packages( 'tidymodels' ) #Say yes to any package requiring compilation
+
+#Rethinking and bootstraplib are not yet on CRAN
+devtools::install_github('rmcelreath/rethinking')
+devtools::install_github('rstudio/bootstraplib') #Update all packages
+</code></pre>
+
+          
+        </div>
+      </div>
+    </div>
+  </section>
+
 
         
 

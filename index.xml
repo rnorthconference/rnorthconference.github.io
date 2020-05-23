@@ -168,12 +168,32 @@ A Code of Conduct is useful to define accepted and acceptable behaviors and to p
     </item>
     
     <item>
+      <title>Startup Guide</title>
+      <link>https://rnorthconference.github.io/blog/installs/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/blog/installs/</guid>
+      <description>Install R 4.0.0  Navigate to https://www.r-project.org/ Choose a mirror: https://cran.r-project.org/mirrors.html ;for example: https://mirror.las.iastate.edu/CRAN/ Choose the download for your operating system   Install RStudio  Navigate to https://rstudio.com/products/rstudio/download/  Choose the download for your operating system   Install the following R packages in your R instance install.packages( c(&#39;devtools&#39;, &#39;purrr&#39;, &#39;rvest&#39;, &#39;RSelenium&#39;, &#39;dplyr&#39;, &#39;data.table&#39;, &#39;dtplyr&#39;, &#39;epiDisplay&#39;, &#39;lavaan&#39;, &#39;reticulate&#39;, &#39;rstanarm&#39;, &#39;rstan&#39;, &#39;coda&#39;,&#39;mvtnorm&#39;,&#39;loo&#39;,&#39;dagitty&#39;, &#39;h2o&#39;, &#39;rmarkdown&#39;, &#39;shiny&#39;, &#39;plumber&#39;, &#39;pins&#39;, &#39;flexdashboard&#39;, &#39;plotly&#39;, &#39;DT&#39;)) install.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://rnorthconference.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/about/</guid>
       <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rnorthconference.github.io/blog/installs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/blog/installs/</guid>
+      <description>+++ title = “Startup Guide” description = “” tags = [ “conduct”, “coc”, ] date = “2018-12-27” categories = [ “faqs”, “conference”,] +++
+Install R 4.0.0  Navigate to https://www.r-project.org/ Choose a mirror: https://cran.r-project.org/mirrors.html https://mirror.las.iastate.edu/CRAN/ Choose the download for your operating system   Install RStudio https://rstudio.com/products/rstudio/download/
+install.packages( c(&amp;#39;devtools&amp;#39;, &amp;#39;purrr&amp;#39;, &amp;#39;rvest&amp;#39;, &amp;#39;RSelenium&amp;#39;, &amp;#39;dplyr&amp;#39;, &amp;#39;data.table&amp;#39;, &amp;#39;dtplyr&amp;#39;, &amp;#39;epiDisplay&amp;#39;, &amp;#39;lavaan&amp;#39;, &amp;#39;reticulate&amp;#39;, &amp;#39;rstanarm&amp;#39;, &amp;#39;rstan&amp;#39;, &amp;#39;coda&amp;#39;,&amp;#39;mvtnorm&amp;#39;,&amp;#39;loo&amp;#39;,&amp;#39;dagitty&amp;#39;, &amp;#39;h2o&amp;#39;, &amp;#39;rmarkdown&amp;#39;, &amp;#39;shiny&amp;#39;, &amp;#39;plumber&amp;#39;, &amp;#39;pins&amp;#39;, &amp;#39;flexdashboard&amp;#39;, &amp;#39;plotly&amp;#39;, &amp;#39;DT&amp;#39;)) install.packages( &amp;#39;tidyverse&amp;#39; ) install.</description>
     </item>
     
   </channel>

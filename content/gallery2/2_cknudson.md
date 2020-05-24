@@ -2,7 +2,7 @@
 date = "2020-02-02" 
 title = "Christina Knudson" 
 position = "Assistant Professor" 
-company = "University of St. Thomas" 
+company = "Univ. of St. Thomas" 
 image = "cknudson.jpg" 
 alt = "Christina Knudson" 
 color = "#212121" 

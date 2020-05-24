@@ -1,6 +1,6 @@
 +++ 
 date = "2020-02-03" 
-title = "Lindsey Dietz" 
+title = "Lindsey Dietz, PhD" 
 position = "Sr. Quantitative Analyst" 
 company = "Federal Reserve Bank of Minneapolis" 
 image = "ldietz.jpeg" 

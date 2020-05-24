@@ -6,7 +6,7 @@
     <description>Recent content in Galleries on noRth 2020 Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +14,27 @@
     <item>
       <title>Amelia McNamara, PhD</title>
       <link>https://rnorthconference.github.io/gallery/1_amcnamara/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/gallery/1_amcnamara/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Erin LeDell, PhD</title>
-      <link>https://rnorthconference.github.io/gallery/1_eledell/</link>
+      <title>Carson Sievert, PhD</title>
+      <link>https://rnorthconference.github.io/gallery/2_csievert/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/1_eledell/</guid>
+      <guid>https://rnorthconference.github.io/gallery/2_csievert/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Carson Sievert, PhD</title>
-      <link>https://rnorthconference.github.io/gallery/2_csievert/</link>
+      <title>Erin LeDell, PhD</title>
+      <link>https://rnorthconference.github.io/gallery/1_eledell/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/2_csievert/</guid>
+      <guid>https://rnorthconference.github.io/gallery/1_eledell/</guid>
       <description></description>
     </item>
     
@@ -48,56 +48,56 @@
     </item>
     
     <item>
-      <title>Haema Nilakanta, PhD</title>
-      <link>https://rnorthconference.github.io/gallery/4_hnilakanta/</link>
+      <title>Eric Lind, PhD</title>
+      <link>https://rnorthconference.github.io/gallery/8_elind/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/4_hnilakanta/</guid>
+      <guid>https://rnorthconference.github.io/gallery/8_elind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lisa Lendway, PhD</title>
       <link>https://rnorthconference.github.io/gallery/5_llendway/</link>
-      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/gallery/5_llendway/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alyssa Toay, MS</title>
-      <link>https://rnorthconference.github.io/gallery/6_atoay/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Haema Nilakanta, PhD</title>
+      <link>https://rnorthconference.github.io/gallery/4_hnilakanta/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/6_atoay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicholas Newstrom, PhD</title>
-      <link>https://rnorthconference.github.io/gallery/10_nnewstrom/</link>
-      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/gallery/10_nnewstrom/</guid>
+      <guid>https://rnorthconference.github.io/gallery/4_hnilakanta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connor Jo Lewis, MS</title>
       <link>https://rnorthconference.github.io/gallery/9_clewis/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/gallery/9_clewis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Eric Lind, PhD</title>
-      <link>https://rnorthconference.github.io/gallery/8_elind/</link>
+      <title>Nicholas Newstrom, PhD</title>
+      <link>https://rnorthconference.github.io/gallery/10_nnewstrom/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/gallery/10_nnewstrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alyssa Toay, MS</title>
+      <link>https://rnorthconference.github.io/gallery/6_atoay/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rnorthconference.github.io/gallery/8_elind/</guid>
+      <guid>https://rnorthconference.github.io/gallery/6_atoay/</guid>
       <description></description>
     </item>
     

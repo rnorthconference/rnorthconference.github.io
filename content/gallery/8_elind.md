@@ -1,5 +1,5 @@
 +++ 
-date = "2020-01-24" 
+date = "2020-01-30" 
 title = "Eric Lind, PhD" 
 position = "Research & Analytics Manager" 
 company = "Metro Transit" 

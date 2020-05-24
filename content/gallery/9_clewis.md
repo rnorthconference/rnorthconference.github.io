@@ -1,5 +1,5 @@
 +++ 
-date = "2020-01-24" 
+date = "2020-01-28" 
 title = "Connor Jo Lewis, MS" 
 position = "Data Scientist" 
 company = "C.H. Robinson" 

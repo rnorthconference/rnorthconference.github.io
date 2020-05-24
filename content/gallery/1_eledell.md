@@ -1,5 +1,5 @@
 +++ 
-date = "2020-02-02" 
+date = "2020-02-01" 
 title = "Erin LeDell, PhD" 
 position = "Chief Machine Learning Scientist" 
 company = "H2O.ai" 

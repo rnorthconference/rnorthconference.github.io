@@ -1,8 +1,8 @@
 +++ 
 date = "2020-01-25" 
 title = "Nicholas Newstrom, PhD" 
-position = "Program in Human Sexuality Postdoctoral Fellow" 
-company = "Univ. of Minnesota-Twin Cities" 
+position = "Postdoctoral Fellow" 
+company = "Univ. of MN-Twin Cities" 
 image = "nnewstrom.jpeg" 
 alt = "Nicholas Newstrom" 
 color = "#212121" 

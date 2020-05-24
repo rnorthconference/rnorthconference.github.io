@@ -7,6 +7,6 @@ image = "amcnamara.jpeg"
 alt = "Amelia McNamara" 
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/ameliamcnamara/" 
-link2 = "https://amelia.mn"
+link2 = "amelia.mn"
 twitter = "https://twitter.com/AmeliaMN"
 +++

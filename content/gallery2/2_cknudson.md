@@ -1,7 +1,7 @@
 +++ 
 date = "2020-02-02" 
 title = "Christina Knudson" 
-position = "Assistant Professor" 
+position = "Asst. Professor" 
 company = "Univ. of St. Thomas" 
 image = "cknudson.jpg" 
 alt = "Christina Knudson" 

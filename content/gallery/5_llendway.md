@@ -1,7 +1,7 @@
 +++ 
 date = "2020-01-30" 
 title = "Lisa Lendway, PhD" 
-position = "Visiting Asst. Professor" 
+position = "Vis. Asst. Professor" 
 company = "Macalester College" 
 image = "llendway.png" 
 alt = "Lisa Lendway" 

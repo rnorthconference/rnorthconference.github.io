@@ -4,7 +4,7 @@ date = "2020-01-27"
 draft = false
 +++
 
-Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We'd love for you to join us VIRTUALLY at noRth 2020! Registration coming soon.
+Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We'd love for you to join us VIRTUALLY at noRth 2020! <a href = "https://rnorthconference.github.io/#contact"> REGISTER now! </a>
 
 The conference will consist of two morning sessions of seminars (July 14 - 15). 
 

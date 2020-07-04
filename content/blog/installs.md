@@ -28,7 +28,9 @@ install.packages( c('devtools', 'purrr', 'rvest',
                     'reticulate', 'rstanarm', 'rstan',
                     'coda','mvtnorm','loo','dagitty',
                     'h2o', 'rmarkdown', 'shiny', 'plumber', 
-                    'pins', 'flexdashboard', 'plotly', 'DT'))
+                    'pins', 'flexdashboard', 'plotly', 'DT',
+                    'shinydashboard', 'babynames', 'shinyjs',
+                    'httr', 'shinythemes', 'leaflet')
 
 install.packages( 'tidyverse' )
 install.packages( 'tidymodels' ) 

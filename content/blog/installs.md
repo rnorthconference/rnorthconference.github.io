@@ -31,7 +31,7 @@ install.packages( c('devtools', 'purrr', 'rvest',
                     'pins', 'flexdashboard', 'plotly', 'DT',
                     'shinydashboard', 'babynames', 'shinyjs',
                     'httr', 'shinythemes', 'leaflet','lubridate',
-                    'moderndive', 'vip', 'caTools')
+                    'moderndive', 'vip', 'caTools'))
 
 install.packages( 'tidyverse' )
 install.packages( 'tidymodels' ) 

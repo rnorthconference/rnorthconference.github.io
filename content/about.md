@@ -12,7 +12,7 @@ While you wait, check out the
 <a href="https://www.youtube.com/playlist?list=PL7aOYMht_9VXse6izexC1sUBRUz_ZuRWV">talks</a>
 and <a href="https://github.com/rnorthconference/2019Talks">materials</a> from noRth 2019. Join the Twin Cities R community today via <a href="https://www.meetup.com/rladies-tc/">R Ladies - Twin Cities</a> or the <a href="https://www.meetup.com/twincitiesrug/"> Twin Cities R User Group</a>.
 
-The tentative 2020 schedule is below (i.e. subject to changes).
+The 2020 schedule is below.
 
 ## Tuesday, July 14, 2020
 <div style="overflow-x:auto;">

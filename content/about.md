@@ -4,15 +4,9 @@ date = "2020-01-27"
 draft = false
 +++
 
-Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We'd love for you to join us VIRTUALLY at noRth 2020! <a href = "https://rnorthconference.github.io/#contact"> REGISTER now! </a>
+Thanks for joining us at noRth 2020, a conference for intermediate and advanced R users. The conference consisted of two morning sessions of seminars on July 14 - 15, 2020. Speaker materials can be found on the <a href = "https://github.com/rnorthconference/2020Talks" target="_blank"> noRth Github repo</a>.
 
-The conference will consist of two morning sessions of seminars (July 14 - 15). 
-
-While you wait, check out the
-<a href="https://www.youtube.com/playlist?list=PL7aOYMht_9VXse6izexC1sUBRUz_ZuRWV">talks</a>
-and <a href="https://github.com/rnorthconference/2019Talks">materials</a> from noRth 2019. Join the Twin Cities R community today via <a href="https://www.meetup.com/rladies-tc/">R Ladies - Twin Cities</a> or the <a href="https://www.meetup.com/twincitiesrug/"> Twin Cities R User Group</a>.
-
-The 2020 schedule is below.
+The schedule is below.
 
 ## Tuesday, July 14, 2020
 <div style="overflow-x:auto;">

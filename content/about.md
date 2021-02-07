@@ -20,7 +20,7 @@ The tentative schedule is below.
     <td> Welcome & logistics </td>
   </tr>
     <tr>
-    <td class="first"> 1:00 - 2:15 pm <br>  </td>
+    <td class="first"> 1:00 - 2:15 pm <br> Lindsey Dietz </td>
     <td> Tutorial 1 </td>
      <td> 
         

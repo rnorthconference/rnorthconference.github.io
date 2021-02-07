@@ -1,182 +1,146 @@
 +++
 title = "About"
-date = "2020-01-27"
+date = "2021-02-07"
 draft = false
 +++
 
-Thanks for joining us at noRth 2020, a conference for intermediate and advanced R users. The conference consisted of two morning sessions of seminars on July 14 - 15, 2020. Speaker materials can be found on the <a href = "https://github.com/rnorthconference/2020Talks" target="_blank"> noRth Github repo</a>.
+Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We'd love for you to join us VIRTUALLY at noRth 2021! 
 
-The schedule is below.
+noRth 2021 is coming on September 29-30, 2021. Details will be posted as available.
 
-## Tuesday, July 14, 2020
+While you wait, <a href = "https://www.youtube.com/playlist?list=PL7aOYMht_9VVUFWU5c7HSI3cEg8jG4o_g" target="_blank"> watch the 2020 conference</a> or download speaker materials in the <a href = "https://github.com/rnorthconference/2020Talks" target="_blank"> noRth Github repo</a>. Join the Twin Cities R community today via <a href="https://www.meetup.com/rladies-tc/">R Ladies - Twin Cities</a> or the <a href="https://www.meetup.com/twincitiesrug/"> Twin Cities R User Group</a>.
+
+The tentative schedule is below.
+
+## Wednesday, September 29, 2021
 <div style="overflow-x:auto;">
 <table class="table">
   <tr>
-    <td class="first"> 9:00 - 9:10 am </td>
-    <td> Welcome </td>
+    <td class="first"> 12:45 - 1:00 pm </td>
+    <td> Welcome & logistics </td>
   </tr>
     <tr>
-    <td class="first"> 9:10 - 9:50 am <br> Amelia McNamara </td>
-    <td> Scraping, iterating, purring </td>
+    <td class="first"> 1:00 - 2:15 pm <br>  </td>
+    <td> Tutorial 1 </td>
      <td> 
-        <ul>
-        install.packages(c(
-        <a href= "https://cran.r-project.org/web/packages/purrr/index.html" target="_blank">'purrr'</a>,
-        <a href= "https://cran.r-project.org/web/packages/rvest/index.html" target="_blank">'rvest'</a>,
-        <a href= "https://cran.r-project.org/web/packages/RSelenium/index.html" target="_blank">'RSelenium'</a>,
-        <a href= "https://cran.r-project.org/web/packages/dplyr/index.html" target="_blank">'dplyr'</a>
-              ))</ul> 
+        
               </td>
   </tr>
   <tr>
-    <td class="firstbreak"> 9:50 - 10:00 am </td>
+    <td class="firstbreak"> 2:15 - 2:30 pm </td>
     <td> Break </td>
   </tr>
   <tr>
-    <td class="first"> 10:00 - 10:30 am <br> Lisa Lendway </td>
-    <td> Reproducible Machine Learning with tidymodels </td>
+    <td class="first"> 2:30 - 3:45 pm <br>  </td>
+    <td> Tutorial 2 </td>
             <td> 
-        <ul>
-        install.packages(
-        <a href= "https://cran.r-project.org/web/packages/tidymodels/index.html" target="_blank">'tidymodels'</a>
-              )</ul>       
+              
               </td>
 
-  </tr>
-  <tr>
-    <td class="first"> 10:35 - 11:05 am <br> Haema Nilakanta </td>
-    <td> Being bilingual - coding in both R and python </td>
-            <td> 
-        <ul>
-        install.packages(
-        <a href= "https://cran.r-project.org/web/packages/reticulate/index.html" target="_blank">'reticulate'</a>)
-              </ul>
-              </td>
-  </tr>
-    <tr>
-    <td class="firstbreak"> 11:05 - 11:15 am </td>
-    <td> Break </td>
-  </tr>
-    <tr>
-    <td class="first"> 11:15 - 11:45 am <br> Eric Lind </td>
-    <td> Probabilistic answers to data science questions: using Bayesian hierarchical modeling in analysis of public transit </td>
-     <td> 
-        <ul>      
-        install.packages(c(
-        <a href= "https://cran.r-project.org/web/packages/rstanarm/index.html" target="_blank">'rstanarm'</a>,
-        <a href= "https://cran.r-project.org/web/packages/rstan/index.html" target="_blank">'rstan'</a>));
-        devtools::install_github('rmcelreath/<a href= "https://github.com/rmcelreath/rethinking" target="_blank">rethinking'</a>)
-              </ul>
-              </td>
-  </tr>
-      <tr>
-    <td class="first"> 11:50 - 12:20 pm <br> Erin LeDell </td>
-    <td> Automatic Machine Learning in R </td>
-        <td> 
-        <ul>
-        install.packages(
-        <a href= "https://cran.r-project.org/web/packages/h2o/index.html" target="_blank">'h2o'</a>)
-              </ul>
-              </td>
-
-  </tr>
-  <tr>
-    <td class="firstbreak"> 12:20 - 12:30 pm </td>
-    <td> Closing </td>
   </tr>
     </tr>
     <tr>
-    <td class="firstbreak"> 12:30 - 1:00 pm </td>
-    <td> (Optional) "Birds of a Feather" Networking Session - connect with attendees of similar backgrounds, interests, and aspirations </td>
+    <td class="firstbreak"> 3:45 - 5:30 pm </td>
+    <td> (Optional) Networking Session - virtual and possibly in person options </td>
   </tr>
 </table>
 </div>
 
-## Wednesday, July 15, 2020
+## Thursday, September 30, 2021
 
 <div style="overflow-x:auto;">
 <table class="table">
   <tr>
-    <td class="first"> 9:00 - 9:10 am </td>
+    <td class="first"> 9:00 - 9:15 am </td>
     <td> Welcome </td>
   </tr>
     <tr>
-    <td class="first"> 9:10 - 9:50 am <br> Carson Sievert </td>
-    <td> Styling shiny and rmarkdown with Sass and Bootstrap 4 </td>
+    <td class="first"> 9:15 - 9:45 am <br>  </td>
+    <td> Breakout 1a </td>
     <td> 
-    <ul>
-    install.packages(c(
-<a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank">'rmarkdown'</a>, <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> 'shiny'</a>, 
-    <a href= "https://cran.r-project.org/web/packages/flexdashboard/index.html" target="_blank">'flexdashboard'</a>,
-    <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> 'plotly'</a>, 
-    <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank">'DT'</a>));
-    devtools::install_github('rstudio/<a href= "https://rstudio.github.io/bootstraplib/" target="_blank">bootstraplib'</a>)
-        </ul>
+    
     </td>
   </tr>
   <tr>
-    <td class="firstbreak"> 9:50 - 10:00 am </td>
+    <td class="first"> 9:15 - 9:45 am <br> </td>
+    <td> Breakout 1b </td> <td> 
+    
+    </td>
+        <tr>
+    <td class="firstbreak"> 9:45 am - 10:00 am </td>
     <td> Break </td>
   </tr>
+
+  </tr>
   <tr>
-    <td class="first"> 10:00 - 10:30 am <br> Alyssa Toay </td>
-    <td> Deploying End-to-End Data Science Production Workflows in R </td>
+    <td class="first"> 10:00 - 11:00 am <br>  </td>
+    <td> Keynote </td>
     <td> 
-    <ul>
-    install.packages(c(
-    <a href= "https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank"> 'rmarkdown'</a>, <a href="https://cran.r-project.org/web/packages/plumber/index.html" target="_blank"> 'plumber'</a>, <a href= "https://cran.r-project.org/web/packages/pins/index.html" target="_blank"> 'pins'</a>, 
-    <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank"> 'shiny'</a>))
-      </ul>
+    
+</td>
+  </tr>
+  
+          <tr>
+    <td class="firstbreak"> 11:00 - 11:15 am </td>
+    <td> Break </td>
+  </tr>
+
+  <tr>
+    <td class="first"> 11:15 - 11:45 am <br>  </td>
+    <td> Breakout 2a </td>
+    <td> 
+    
 </td>
   </tr>
   <tr>
-    <td class="first"> 10:35 - 11:05 am <br> Heather Lendway and Connor Jo Lewis</td>
-    <td> Powerful Yet Simple Reactive Concepts in Shiny </td>
+    <td class="first"> 11:15 - 11:45 am <br>  </td>
+    <td> Breakout 2b </td>
         <td> 
-        <ul>
-        install.packages(c(
-        <a href= "https://cran.r-project.org/web/packages/shiny/index.html" target="_blank">'shiny'</a>, 
-        <a href= "https://cran.r-project.org/web/packages/plotly/index.html"> 'plotly'</a>,
-        <a href= "https://cran.r-project.org/web/packages/DT/index.html" target="_blank"> 'DT'</a> ))
-              </ul>
+        
               </td>
   </tr>
-    <tr>
-    <td class="firstbreak"> 11:05 - 11:15 am </td>
+  
+            <tr>
+    <td class="firstbreak"> 11:45 - 11:50 am </td>
     <td> Break </td>
   </tr>
-    <tr>
-    <td class="first"> 11:15 - 11:45 am <br> Kim Eng Ky </td>
-    <td> dplyr + data.table = dtplyr? </td>
+  
+  <tr>
+    <td class="first"> 11:50 - 12:20 pm <br>  </td>
+    <td> Breakout 3a </td>
     <td> 
-        <ul>
-                install.packages(c(
-        <a href= "https://cran.r-project.org/web/packages/dplyr/index.html" target="_blank">'dplyr'</a>,
-                <a href= "https://cran.r-project.org/web/packages/data.table/index.html" target="_blank">'data.table'</a>,
-                <a href= "https://cran.r-project.org/web/packages/dtplyr/index.html" target="_blank">'dtplyr'</a>))
+    
+</td>
+  </tr>
+  <tr>
+    <td class="first"> 11:50 - 12:20 pm <br>  </td>
+    <td> Breakout 3b </td>
+        <td> 
+        
+              </td>
+  </tr>
+  
+            <tr>
+    <td class="firstbreak"> 12:20 - 12:25 pm </td>
+    <td> Break </td>
+  </tr>
 
-              </ul>
+    <tr>
+    <td class="first"> 12:25 - 12:55 pm <br>  </td>
+    <td> Breakout 4a </td>
+    <td> 
+      
               </td>
   </tr>
       <tr>
-    <td class="first"> 11:50 - 12:20 pm <br> Nicholas Newstrom </td>
-    <td> R statistics: A social scientist’s journey </td>
+    <td class="first"> 12:25 - 12:55 pm <br>  </td>
+    <td> Breakout 4b </td>
         <td> 
-        <ul>
-        install.packages(c(
-        <a href= "https://cran.r-project.org/web/packages/epiDisplay/index.html" target="_blank">'epiDisplay'</a>,
-                <a href= "https://cran.r-project.org/web/packages/lavaan/index.html" target="_blank">'lavaan'</a>
-                ))
-              </ul>
+        
               </td>
   </tr>
   <tr>
-    <td class="firstbreak"> 12:20 - 12:30 pm </td>
+    <td class="firstbreak"> 12:55 - 1:00 pm </td>
     <td> Closing </td>
-  </tr>
-    <tr>
-    <td class="firstbreak"> 12:30 - 1:00 pm </td>
-    <td> (Optional) "Birds of a Feather" Networking Session - connect with attendees of similar backgrounds, interests, and aspirations </td>
-  </tr>
 </table>
 </div>

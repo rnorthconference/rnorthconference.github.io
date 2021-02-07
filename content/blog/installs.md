@@ -5,15 +5,15 @@ tags = [
     "startup",
     "packages",
     ]
-date = "2020-05-23"
+date = "2021-04-01"
 categories = [
     "startup",
     "packages",
 ]
 +++
 
-## Install R 4.0.0 or higher
- - Navigate to a nearby CRAN mirror: https://cran.r-project.org/mirrors.html; for example: https://mirror.las.iastate.edu/CRAN/
+## Install R 4.1 or higher
+ - Navigate to CRAN mirror: https://cran.r-project.org/
  - Choose the download for your operating system
   
 ## Install RStudio
@@ -22,23 +22,7 @@ categories = [
 
 ## Install the following R packages in your R instance
 ```{r eval=FALSE}
-install.packages( c('devtools', 'purrr', 'rvest', 
-                    'RSelenium', 'dplyr', 'data.table', 
-                    'dtplyr', 'epiDisplay', 'lavaan',
-                    'reticulate', 'rstanarm', 'rstan',
-                    'coda','mvtnorm','loo','dagitty',
-                    'h2o', 'rmarkdown', 'shiny', 'plumber', 
-                    'pins', 'flexdashboard', 'plotly', 'DT',
-                    'shinydashboard', 'babynames', 'shinyjs',
-                    'httr', 'shinythemes', 'leaflet','lubridate',
-                    'moderndive', 'vip', 'caTools'))
-
 install.packages( 'tidyverse' )
 install.packages( 'tidymodels' ) 
-#Say yes to any package requiring compilation if asked
 
-#Rethinking and bootstraplib are not yet on CRAN
-devtools::install_github('rmcelreath/rethinking') #won't work in R 4.0.0; update to R 4.0.2
-devtools::install_github('rstudio/bootstraplib') 
-#Choose 1 to update all packages if asked
 ```

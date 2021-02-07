@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on noRth 2020 (Virtual) Conference</title>
+    <title>Blogs on noRth 2021 (Virtual) Conference</title>
     <link>https://rnorthconference.github.io/blog/</link>
-    <description>Recent content in Blogs on noRth 2020 (Virtual) Conference</description>
+    <description>Recent content in Blogs on noRth 2021 (Virtual) Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Conference Startup Guide</title>
-      <link>https://rnorthconference.github.io/blog/installs/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnorthconference.github.io/blog/installs/</guid>
-      <description>Install R 4.0.0 or higher  Navigate to a nearby CRAN mirror: https://cran.r-project.org/mirrors.html; for example: https://mirror.las.iastate.edu/CRAN/ Choose the download for your operating system   Install RStudio  Navigate to https://rstudio.com/products/rstudio/download/ Choose the download for your operating system  Install the following R packages in your R instance install.packages( c(&#39;devtools&#39;, &#39;purrr&#39;, &#39;rvest&#39;, &#39;RSelenium&#39;, &#39;dplyr&#39;, &#39;data.table&#39;, &#39;dtplyr&#39;, &#39;epiDisplay&#39;, &#39;lavaan&#39;, &#39;reticulate&#39;, &#39;rstanarm&#39;, &#39;rstan&#39;, &#39;coda&#39;,&#39;mvtnorm&#39;,&#39;loo&#39;,&#39;dagitty&#39;, &#39;h2o&#39;, &#39;rmarkdown&#39;, &#39;shiny&#39;, &#39;plumber&#39;, &#39;pins&#39;, &#39;flexdashboard&#39;, &#39;plotly&#39;, &#39;DT&#39;, &#39;shinydashboard&#39;, &#39;babynames&#39;, &#39;shinyjs&#39;, &#39;httr&#39;, &#39;shinythemes&#39;, &#39;leaflet&#39;,&#39;lubridate&#39;, &#39;moderndive&#39;, &#39;vip&#39;, &#39;caTools&#39;)) install.</description>
-    </item>
     
     <item>
       <title>Code of Conduct</title>

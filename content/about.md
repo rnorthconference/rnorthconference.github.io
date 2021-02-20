@@ -31,7 +31,7 @@ The tentative schedule is below.
     <td> Break </td>
   </tr>
   <tr>
-    <td class="first"> 2:30 - 3:45 pm <br>  </td>
+    <td class="first"> 2:30 - 3:45 pm <br> Gabriela de Queiroz, Stacey Ronaghan, & Saishruthi Swaminathan </td>
     <td> Tutorial 2 </td>
             <td> 
               
@@ -73,7 +73,7 @@ The tentative schedule is below.
 
   </tr>
   <tr>
-    <td class="first"> 10:00 - 11:00 am <br>  </td>
+    <td class="first"> 10:00 - 11:00 am <br> Audris Campbell </td>
     <td> Keynote </td>
     <td> 
     

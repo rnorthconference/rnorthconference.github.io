@@ -1,5 +1,5 @@
 +++ 
-date = "2020-02-03" 
+date = "2020-02-01" 
 title = "Lindsey Dietz, PhD" 
 position = "Financial Economist" 
 company = "Federal Reserve Bank of Minneapolis" 

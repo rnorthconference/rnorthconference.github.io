@@ -8,5 +8,5 @@ alt = "Audris Campbell"
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/audriscampbell/" 
 link2 = ""
-twitter = ""
+twitter = "https://twitter.com/AudrisCampbell"
 +++

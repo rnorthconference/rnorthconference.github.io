@@ -7,6 +7,6 @@ image = "noRth2021.png"
 alt = "Gabriela de Queiroz" 
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/gabrieladequeiroz/" 
-link2 = ""
-twitter = ""
+link2 = "https://k-roz.com/"
+twitter = "https://twitter.com/gdequeiroz"
 +++

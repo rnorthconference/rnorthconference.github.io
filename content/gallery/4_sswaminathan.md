@@ -7,6 +7,6 @@ image = "noRth2021.png"
 alt = "Saishruthi Swaminathan" 
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/saishruthi-swaminathan/" 
-link2 = ""
+link2 = "https://medium.com/@saishruthi.tn"
 twitter = ""
 +++

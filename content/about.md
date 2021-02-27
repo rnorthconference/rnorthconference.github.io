@@ -86,7 +86,7 @@ The tentative schedule is below.
   </tr>
 
   <tr>
-    <td class="first"> 11:15 - 11:45 am <br>  </td>
+    <td class="first"> 11:15 - 11:45 am <br> Brad Price </td>
     <td> Breakout 2a </td>
     <td> 
     

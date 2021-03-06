@@ -7,6 +7,6 @@ image = "acampbell.jpeg"
 alt = "Audris Campbell" 
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/audriscampbell/" 
-link2 = ""
+link2 = "https://audriscampbell.com/"
 twitter = "https://twitter.com/AudrisCampbell"
 +++

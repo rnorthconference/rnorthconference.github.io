@@ -101,19 +101,19 @@ The tentative schedule is below.
   </tr>
   
             <tr>
-    <td class="firstbreak"> 11:45 - 11:50 am </td>
+    <td class="firstbreak"> 11:45 - 11:55 am </td>
     <td> Break </td>
   </tr>
   
   <tr>
-    <td class="first"> 11:50 - 12:20 pm <br>  </td>
+    <td class="first"> 11:55 - 12:25 pm <br>  </td>
     <td> Breakout 3a </td>
     <td> 
     
 </td>
   </tr>
   <tr>
-    <td class="first"> 11:50 - 12:20 pm <br>  </td>
+    <td class="first"> 11:55 - 12:25 pm <br>  </td>
     <td> Breakout 3b </td>
         <td> 
         
@@ -121,26 +121,26 @@ The tentative schedule is below.
   </tr>
   
             <tr>
-    <td class="firstbreak"> 12:20 - 12:25 pm </td>
+    <td class="firstbreak"> 12:25 - 12:35 pm </td>
     <td> Break </td>
   </tr>
 
     <tr>
-    <td class="first"> 12:25 - 12:55 pm <br>  </td>
+    <td class="first"> 12:35 - 1:05 pm <br> Adam Saffer  </td>
     <td> Breakout 4a </td>
     <td> 
       
               </td>
   </tr>
       <tr>
-    <td class="first"> 12:25 - 12:55 pm <br>  </td>
+    <td class="first"> 12:35 - 1:05 pm <br>  </td>
     <td> Breakout 4b </td>
         <td> 
         
               </td>
   </tr>
   <tr>
-    <td class="firstbreak"> 12:55 - 1:00 pm </td>
+    <td class="firstbreak"> 1:05 - 1:10 pm </td>
     <td> Closing </td>
 </table>
 </div>

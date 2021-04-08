@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on noRth 2021 (Virtual) Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conference Startup Guide</title>
+      <link>https://rnorthconference.github.io/blog/installs/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/blog/installs/</guid>
+      <description> Install R 4.1 or higher  Navigate to CRAN mirror: https://cran.r-project.org/ Choose the download for your operating system   Install RStudio  Navigate to https://rstudio.com/products/rstudio/download/ Choose the download for your operating system  Install the following R packages in your R instance install.packages( &#39;tidyverse&#39; ) install.packages( &#39;tidymodels&#39; )  </description>
+    </item>
     
     <item>
       <title>Code of Conduct</title>

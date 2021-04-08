@@ -6,10 +6,19 @@
     <description>Recent content on noRth 2021 (Virtual) Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rnorthconference.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conference Startup Guide</title>
+      <link>https://rnorthconference.github.io/blog/installs/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rnorthconference.github.io/blog/installs/</guid>
+      <description> Install R 4.1 or higher  Navigate to CRAN mirror: https://cran.r-project.org/ Choose the download for your operating system   Install RStudio  Navigate to https://rstudio.com/products/rstudio/download/ Choose the download for your operating system  Install the following R packages in your R instance install.packages( &#39;tidyverse&#39; ) install.packages( &#39;tidymodels&#39; )  </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +26,7 @@
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/about/</guid>
-      <description>Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We&amp;rsquo;d love for you to join us VIRTUALLY at noRth 2021 on September 29-30, 2021. We remain virtual this year to avoid continued travel uncertainty, but hope to be back in person in 2022.
+      <description>Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We&amp;rsquo;d love for you to join us VIRTUALLY at noRth 2021 on September 29-30, 2021. We remain virtual this year to avoid continued travel uncertainty, but hope to be back in person in 2022. CLICK HERE TO REGISTER 
 BRAND NEW THIS YEAR: We are open for contributed talks in 2021!</description>
     </item>
     

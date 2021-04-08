@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://rnorthconference.github.io/blog/installs/</loc>
+      <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://rnorthconference.github.io/about/</loc>
       <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     </url>
@@ -43,7 +48,7 @@
   
     <url>
       <loc>https://rnorthconference.github.io/blog/</loc>
-      <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+      <lastmod>2021-04-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -61,7 +66,7 @@
   
     <url>
       <loc>https://rnorthconference.github.io/</loc>
-      <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+      <lastmod>2021-04-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   

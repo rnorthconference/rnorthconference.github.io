@@ -1,5 +1,5 @@
 +++ 
-date = "2020-02-01" 
+date = "2020-02-04" 
 title = "Adam Saffer, PhD" 
 position = "Asst. Professor" 
 company = "University of Minnesota" 

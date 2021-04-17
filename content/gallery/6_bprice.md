@@ -1,5 +1,5 @@
 +++ 
-date = "2020-02-01" 
+date = "2021-01-31" 
 title = "Brad Price, PhD" 
 position = "Asst. Professor" 
 company = "West Virginia University" 

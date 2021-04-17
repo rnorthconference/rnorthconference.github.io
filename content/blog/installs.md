@@ -16,7 +16,7 @@ categories = [
  - Navigate to CRAN mirror: https://cran.r-project.org/
  - Choose the download for your operating system
   
-## Install RStudio
+## Install RStudio 1.4.1106 or higher
   - Navigate to https://rstudio.com/products/rstudio/download/
   - Choose the download for your operating system
 

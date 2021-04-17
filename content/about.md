@@ -109,7 +109,7 @@ The tentative schedule is below.
   </tr>
   
   <tr>
-    <td class="first"> 11:55 - 12:25 pm <br>  </td>
+    <td class="first"> 11:55 - 12:25 pm <br> Eric Daza </td>
     <td> Breakout 3a </td>
     <td> 
     
@@ -129,14 +129,14 @@ The tentative schedule is below.
   </tr>
 
     <tr>
-    <td class="first"> 12:35 - 1:05 pm <br> Adam Saffer  </td>
+    <td class="first"> 12:35 - 1:05 pm <br> Adam Saffer </td>
     <td> Breakout 4a </td>
     <td> 
       
               </td>
   </tr>
       <tr>
-    <td class="first"> 12:35 - 1:05 pm <br>  </td>
+    <td class="first"> 12:35 - 1:05 pm <br> Claire McKay Bowen </td>
     <td> Breakout 4b </td>
         <td> 
         

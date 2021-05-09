@@ -96,7 +96,7 @@ The tentative schedule is below.
 </td>
   </tr>
   <tr>
-    <td class="first"> 11:15 - 11:45 am <br>  </td>
+    <td class="first"> 11:15 - 11:45 am <br> Fiona Lodge </td>
     <td> Breakout 2b </td>
         <td> 
         

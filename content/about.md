@@ -6,7 +6,7 @@ draft = false
 
 Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We'd love for you to join us VIRTUALLY at noRth 2021 on September 29-30, 2021. We remain virtual this year to avoid continued travel uncertainty, but hope to be back in person in 2022. <a href="https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=27365133"> **CLICK HERE TO REGISTER** </a> 
 
-**BRAND NEW THIS YEAR: We are open for contributed talks in 2021! If you are interested, please <a href="https://docs.google.com/forms/d/1Xj7rtbvf_XapQYNNIXroS-Ek3-O3y7zx1aZUXQ-nfd0/edit?ts=60560b32&gxids=7628"> submit your proposal through this Google form before May 31, 2021.</a>** 
+**BRAND NEW THIS YEAR: We are open for contributed talks in 2021! If you are interested, please <a href="https://docs.google.com/forms/d/1Xj7rtbvf_XapQYNNIXroS-Ek3-O3y7zx1aZUXQ-nfd0/edit?ts=60560b32&gxids=7628"> submit your proposal through this Google form before June 30, 2021.</a>** 
 
 **SCHOLARSHIPS: We are continuing to support registration scholarships. Please submit your application using the contact form below.**
 
@@ -76,7 +76,7 @@ The tentative schedule is below.
 
   </tr>
   <tr>
-    <td class="first"> 10:00 - 11:00 am <br> Audris Campbell </td>
+    <td class="first"> 10:00 - 11:00 am <br> Brad Price </td>
     <td> Keynote </td>
     <td> 
     
@@ -89,7 +89,7 @@ The tentative schedule is below.
   </tr>
 
   <tr>
-    <td class="first"> 11:15 - 11:45 am <br> Brad Price </td>
+    <td class="first"> 11:15 - 11:45 am <br>  </td>
     <td> Breakout 2a </td>
     <td> 
     

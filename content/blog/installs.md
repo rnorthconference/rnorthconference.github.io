@@ -16,13 +16,12 @@ categories = [
  - Navigate to CRAN mirror: https://cran.r-project.org/
  - Choose the download for your operating system
   
-## Install RStudio 1.4.1106 or higher
+## Install RStudio 1.4.1717 or higher
   - Navigate to https://rstudio.com/products/rstudio/download/
   - Choose the download for your operating system
 
 ## Install the following R packages in your R instance
 ```{r eval=FALSE}
-install.packages( 'tidyverse' )
-install.packages( 'tidymodels' ) 
+install.packages( 'tidyverse', 'igraph', 'ggplot2', 'ggraph', 'RColorBrewer', 'rmarkdown', 'DT', 'plotly', 'reactable' )
 
 ```

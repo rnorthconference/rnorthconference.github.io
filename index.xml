@@ -17,7 +17,7 @@
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://rnorthconference.github.io/blog/installs/</guid>
-      <description> Install R 4.1 or higher  Navigate to CRAN mirror: https://cran.r-project.org/ Choose the download for your operating system   Install RStudio 1.4.1106 or higher  Navigate to https://rstudio.com/products/rstudio/download/ Choose the download for your operating system  Install the following R packages in your R instance install.packages( &#39;tidyverse&#39; ) install.packages( &#39;tidymodels&#39; )  </description>
+      <description> Install R 4.1 or higher  Navigate to CRAN mirror: https://cran.r-project.org/ Choose the download for your operating system   Install RStudio 1.4.1717 or higher  Navigate to https://rstudio.com/products/rstudio/download/ Choose the download for your operating system  Install the following R packages in your R instance install.packages( &#39;tidyverse&#39;, &#39;igraph&#39;, &#39;ggplot2&#39;, &#39;ggraph&#39;, &#39;RColorBrewer&#39;, &#39;rmarkdown&#39;, &#39;DT&#39;, &#39;plotly&#39;, &#39;reactable&#39; )  </description>
     </item>
     
     <item>

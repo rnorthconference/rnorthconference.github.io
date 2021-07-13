@@ -22,6 +22,6 @@ categories = [
 
 ## Install the following R packages in your R instance
 ```{r eval=FALSE}
-install.packages( 'tidyverse', 'igraph', 'ggplot2', 'ggraph', 'RColorBrewer', 'rmarkdown', 'DT', 'plotly', 'reactable' )
+install.packages( 'tidyverse', 'igraph', 'ggplot2', 'ggraph', 'RColorBrewer', 'rmarkdown', 'DT', 'plotly', 'reactable', 'EnvStats', 'MASS')
 
 ```

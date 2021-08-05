@@ -69,11 +69,10 @@ The tentative schedule is below.
   </tr>
 
   <tr>
-    <td class="first"> 10:30 - 11:15 am <br> </td>
-    <td> Breakout </td>
-    <td> 
-    
-</td>
+    <td class="first"> 10:30 - 11:15 am <br> Frank Corrigan </td>
+    <td> Scenario Planning, with Data, on Steroids </td>
+        <td> install.packages(c('dplyr', 'ggplot2', 'tidyr', 'EnvStats', 'MASS'))
+              </td>
   </tr>
   <tr>
     <td class="first"> 10:30 - 11:15 am <br> Fiona Lodge </td>
@@ -97,10 +96,9 @@ The tentative schedule is below.
 </td>
   </tr>
   <tr>
-    <td class="first"> 11:30 - 12:15 pm <br> Frank Corrigan </td>
-    <td> Scenario Planning, with Data, on Steroids </td>
-        <td> install.packages(c('dplyr', 'ggplot2', 'tidyr', 'EnvStats', 'MASS'))
-              </td>
+    <td class="first"> 11:30 - 12:15 pm <br>  </td>
+    <td> Breakout </td>
+        <td>  </td>
   </tr>
   
             <tr>

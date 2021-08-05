@@ -57,7 +57,7 @@ The tentative schedule is below.
   </tr>
   <tr>
     <td class="first"> 9:15 - 10:15 am <br> Brad Price </td>
-    <td> Keynote </td>
+    <td> Using Data Science and Open Source Tools in the COVID-19 Response in West Virginia </td>
     <td> 
     
 </td>
@@ -69,7 +69,7 @@ The tentative schedule is below.
   </tr>
 
   <tr>
-    <td class="first"> 10:30 - 11:15 am <br>  </td>
+    <td class="first"> 10:30 - 11:15 am <br> </td>
     <td> Breakout </td>
     <td> 
     

@@ -69,7 +69,7 @@ The tentative schedule is below.
   </tr>
 
   <tr>
-    <td class="first"> 10:30 - 11:15 am <br> Nicole Sullivan </td>
+    <td class="first"> 10:30 - 11:15 am <br>  </td>
     <td> Breakout </td>
     <td> 
     

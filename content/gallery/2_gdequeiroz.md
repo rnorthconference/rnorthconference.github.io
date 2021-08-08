@@ -1,6 +1,6 @@
 +++ 
 date = "2021-02-03" 
-title = "Gabriela de Queiroz" 
+title = "Gabriela de Queiroz, M.S." 
 position = "Sr. Eng. & Data Science Mgr." 
 company = "IBM" 
 image = "gdequeiroz.jpeg" 

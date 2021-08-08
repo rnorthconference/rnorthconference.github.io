@@ -1,7 +1,7 @@
 +++ 
 date = "2021-02-03" 
 title = "Gabriela de Queiroz, M.S." 
-position = "Chief Data Scientist, AI Strategy and Innovation" 
+position = "Chief Data Scientist" 
 company = "IBM" 
 image = "gdequeiroz.jpeg" 
 alt = "Gabriela de Queiroz" 

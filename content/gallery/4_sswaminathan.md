@@ -1,7 +1,7 @@
 +++ 
 date = "2020-02-05" 
 title = "Saishruthi Swaminathan, M.S." 
-position = "Advisory Data Scientist - AI Strategy & Innovation" 
+position = "Advisory Data Scientist" 
 company = "IBM" 
 image = "sswaminathan.jpeg" 
 alt = "Saishruthi Swaminathan" 

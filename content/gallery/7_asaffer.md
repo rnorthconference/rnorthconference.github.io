@@ -1,7 +1,7 @@
 +++ 
 date = "2020-02-04" 
 title = "Adam Saffer, PhD" 
-position = "Asst. Professor" 
+position = "Asst. Professor of Strategic Communication" 
 company = "University of Minnesota" 
 image = "asaffer.png" 
 alt = "Adam Saffer" 

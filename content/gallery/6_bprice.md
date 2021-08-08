@@ -1,7 +1,7 @@
 +++ 
 date = "2021-01-31" 
 title = "Brad Price, PhD" 
-position = "Asst. Professor" 
+position = "Asst. Professor of Business Data Analytics" 
 company = "West Virginia University" 
 image = "bprice.jpeg" 
 alt = "Brad Price" 

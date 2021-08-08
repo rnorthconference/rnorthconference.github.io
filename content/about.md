@@ -89,8 +89,8 @@ The tentative schedule is below.
   </tr>
   
   <tr>
-    <td class="first"> 11:30 - 12:15 pm <br> Eric Daza </td>
-    <td> Breakout </td>
+    <td class="first"> 11:30 - 12:15 pm <br> Eric J. Daza </td>
+    <td> StoRies from Digital Health Data Science </td>
     <td> 
     
 </td>

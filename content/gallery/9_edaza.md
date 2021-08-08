@@ -1,7 +1,7 @@
 +++ 
 date = "2020-02-10" 
-title = "Eric Daza, DrPH" 
-position = "Lead Biostatistician" 
+title = "Eric J. Daza, DrPH" 
+position = "Lead Biostatistician & Data Scientist" 
 company = "Evidation Health" 
 image = "edaza.jpg" 
 alt = "Eric Daza" 

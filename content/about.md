@@ -93,8 +93,8 @@ The tentative schedule is below.
 </td>
   </tr>
   <tr>
-    <td class="first"> 11:30 - 12:15 pm <br>  </td>
-    <td> Breakout </td>
+    <td class="first"> 11:30 - 12:15 pm <br> Carrie M. Tribble </td>
+    <td> A picture is worth 3.7 billion years: Showing evolution in R </td>
         <td>  </td>
   </tr>
   

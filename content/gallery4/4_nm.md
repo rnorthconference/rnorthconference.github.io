@@ -8,5 +8,5 @@ alt = "Nithin M"
 color = "#212121" 
 link1 = "https://www.linkedin.com/in/nithinmkp/" 
 link2 = ""
-twitter = "nithinnithu_m"
+twitter = "https://twitter.com/nithinnithu_m"
 +++

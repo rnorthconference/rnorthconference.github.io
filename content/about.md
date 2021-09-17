@@ -66,36 +66,35 @@ The tentative schedule is below.
   </tr>
 
   <tr>
-    <td class="first"> 10:30 - 11:15 am <br> Frank Corrigan </td>
-    <td> Scenario Planning, with Data, on Steroids </td>
-        <td> install.packages(c('dplyr', 'ggplot2', 'tidyr', 'EnvStats', 'MASS'))
-              </td>
-  </tr>
-  <tr>
-    <td class="first"> 10:30 - 11:15 am <br> Fiona Lodge </td>
+    <td class="first"> 10:30 - 11:15 am <br>Track 1 - Fiona Lodge </td>
     <td> To the basics and beyond of Rshiny applications
 </td>
         <td> install.packages('shiny')
         
               </td>
   </tr>
-  
+  <tr>
+    <td class="first"> 10:30 - 11:15 am <br> Track 2 - Frank Corrigan </td>
+    <td> Scenario Planning, with Data, on Steroids </td>
+        <td> install.packages(c('dplyr', 'ggplot2', 'tidyr', 'EnvStats', 'MASS'))
+              </td>
+  </tr>
             <tr>
     <td class="firstbreak"> 11:15 - 11:30 am </td>
     <td> Break </td>
   </tr>
   
+    <tr>
+    <td class="first"> 11:30 - 12:15 pm <br> Track 1 - Carrie M. Tribble </td>
+    <td> A picture is worth 3.7 billion years: Showing evolution in R </td>
+        <td>  </td>
+  </tr>
   <tr>
-    <td class="first"> 11:30 - 12:15 pm <br> Eric J. Daza </td>
+    <td class="first"> 11:30 - 12:15 pm <br> Track 2 - Eric J. Daza </td>
     <td> StoRies from Digital Health Data Science </td>
     <td> 
     
 </td>
-  </tr>
-  <tr>
-    <td class="first"> 11:30 - 12:15 pm <br> Carrie M. Tribble </td>
-    <td> A picture is worth 3.7 billion years: Showing evolution in R </td>
-        <td>  </td>
   </tr>
   
             <tr>
@@ -104,14 +103,14 @@ The tentative schedule is below.
   </tr>
 
     <tr>
-    <td class="first"> 12:30 - 1:15 pm <br> Adam Saffer </td>
+    <td class="first"> 12:30 - 1:15 pm <br> Track 1 - Adam Saffer </td>
     <td> Visualizing networks with overlapping groups </td>
     <td> install.packages(c('dplyr', 'igraph', 'ggplot2', 'ggraph', 'RColorBrewer'))
       
               </td>
   </tr>
       <tr>
-    <td class="first"> 12:30 - 1:15 pm <br> Claire McKay Bowen </td>
+    <td class="first"> 12:30 - 1:15 pm <br>Track 2 - Claire McKay Bowen </td>
     <td> Generating Synthetic Data for Data Privacy in R </td>
         <td> install.packages('tidyverse')
         

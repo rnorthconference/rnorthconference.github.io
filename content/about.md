@@ -23,9 +23,7 @@ The tentative schedule is below.
     <tr>
     <td class="first"> 1:00 - 2:15 pm <br> Lindsey Dietz </td>
     <td> Tutorial - Building a Sustainable R Ecosystem for Reporting </td>
-     <td> install.packages(c('rmarkdown', 'DT', 'ggplot2', 'plotly', 'reactable'))
-        
-              </td>
+     <td> install.packages(c('rmarkdown', 'DT', 'ggplot2', 'plotly', 'highcharter', 'reactable','kableExtra')) </td>
   </tr>
   <tr>
     <td class="firstbreak"> 2:15 - 2:30 pm </td>
@@ -34,6 +32,10 @@ The tentative schedule is below.
   <tr>
     <td class="first"> 2:30 - 3:45 pm <br> Gabriela de Queiroz, Stacey Ronaghan, & Saishruthi Swaminathan </td>
     <td> Tutorial - Toolbox to Mitigate Bias in AI </td>
+         <td> install.packages(c('devtools', 'reticulate')); devtools::install_github("Trusted-AI/AIF360/aif360/aif360-r")
+         </td>
+        <td> <a href="https://github.com/rnorthconference/2021Talks/tree/main/Tutorial2"> (Review setup instructions) </a>
+</td>
             <td> 
               
               </td>
@@ -69,14 +71,14 @@ The tentative schedule is below.
     <td class="first"> 10:30 - 11:15 am <br>Track 1 - Fiona Lodge </td>
     <td> To the basics and beyond of Rshiny applications
 </td>
-        <td> install.packages('shiny')
+        <td> install.packages(c('shiny', 'tidyr', 'ggplot2', 'dplyr', 'shinydashboard', 'writexl', 'readxl', 'shiny.semantic'))
         
               </td>
   </tr>
   <tr>
     <td class="first"> 10:30 - 11:15 am <br> Track 2 - Frank Corrigan </td>
     <td> Scenario Planning, with Data, on Steroids </td>
-        <td> install.packages(c('dplyr', 'ggplot2', 'tidyr', 'EnvStats', 'MASS'))
+        <td> install.packages(c('shiny', 'bslib', 'ggplot2', 'tidyverse', 'DT', 'fGarch','kableExtra'))
               </td>
   </tr>
             <tr>
@@ -92,6 +94,8 @@ The tentative schedule is below.
   <tr>
     <td class="first"> 11:30 - 12:15 pm <br> Track 2 - Eric J. Daza </td>
     <td> StoRies from Biostatistics to Health Data Science </td>
+    <td> install.packages(c('pacman', 'png', 'gifski', 'gganimate', 'survminer', 'tidyverse')) </td>
+
     <td> 
     
 </td>
@@ -105,9 +109,7 @@ The tentative schedule is below.
     <tr>
     <td class="first"> 12:30 - 1:15 pm <br> Track 1 - Adam Saffer </td>
     <td> Visualizing networks with overlapping groups </td>
-    <td> install.packages(c('dplyr', 'igraph', 'ggplot2', 'ggraph', 'RColorBrewer'))
-      
-              </td>
+    <td> install.packages(c('dplyr', 'igraph', 'ggplot2', 'ggraph', 'RColorBrewer')) </td>
   </tr>
       <tr>
     <td class="first"> 12:30 - 1:15 pm <br>Track 2 - Claire McKay Bowen </td>

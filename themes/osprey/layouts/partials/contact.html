@@ -1,31 +1,10 @@
 {{ if or (.Site.Params.ajaxFormspree) (.Site.Params.ajaxBasin) }}
 <section class="contact" id="contact">
   <div class="container">
-
-    <div class="row">
-      <div class="col-xs-12">
-        <h1> Conference Pricing </h1> 
-        <h1> <a href="https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=27365133"> CLICK HERE TO REGISTER </a> </h1> 
-    <h3> Note that you will be redirected to the University of Minnesota system for registration. Please use the form below to submit any questions to the conference organizers.</h3>
-
-        <h3> 
-         *Public (non-UMN) Pricing Scale*
-         <ul>
-           <li> $100 - Student/Postdoc/Not Employed
-           <li> $125 - Academic Faculty/Staff, Government, or Nonprofit
-           <li> $175 - General Admission (not in previous categories)
-         </ul>
-         *UMN Internal Pricing Scale*
-         <ul>
-           <li> $50 - Paying with UMN dept. chartstring
-           <li> $75 - General UMN Admission
-         </ul>
-        </h3> 
-      </div>
-    </div>
     
 <h1> Contact Us </h1> 
 
+ Registration for the 2021 event is now closed. Please join us next time!
     <form id="form-contact" action="{{ if .Site.Params.ajaxFormspree }}https://formspree.io/{{ .Site.Params.email }}{{ else if .Site.Params.ajaxBasin }}{{ .Site.Params.ajaxBasin }}{{ end }}" method="POST">
       <div class="row center-xs">
         <div class="col-xs-12 col-sm-6"><input type="text" name="name" placeholder="Name" required></div>

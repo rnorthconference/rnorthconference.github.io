@@ -5,7 +5,6 @@ draft = false
 +++
 
 Are you an intermediate or advanced R user looking for an opportunity to expand your knowledge and connect with the diverse R community in the Twin Cities? We'd love for you to join us VIRTUALLY at noRth 2021 on September 29-30, 2021. 
-<a href="https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=27365133"> **CLICK HERE TO REGISTER** </a> 
 
 COVID-19 vaccines are safe, effective, and free. Please get vaccinated so that we can see you in person for noRth 2022. Use this link to find a local vaccination clinic in the United States: https://www.vaccines.gov/.
 
